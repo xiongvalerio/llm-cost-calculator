@@ -1,6 +1,6 @@
-# Ygbooo
+# LLM Cost Calculator
 
-**LLM cost calculator — estimate what a request, a day, or a month of inference actually costs.**
+**Estimate what a request, a day, or a month of inference actually costs.**
 
 A single-page tool for anyone who runs or resells AI APIs. Plug in your token
 volumes and per-million prices, get the real number, and compare models side by
@@ -27,8 +27,8 @@ money. This tool answers the only question that matters:
 Open `index.html` in a browser. No install, no build, no account.
 
 ```
-git clone https://github.com/xiongvalerio/Ygbooo.-.git
-cd Ygbooo.-
+git clone https://github.com/xiongvalerio/llm-cost-calculator.git
+cd llm-cost-calculator
 python -m http.server 8080
 # open http://localhost:8080
 ```
