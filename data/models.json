@@ -1,0 +1,6562 @@
+[
+  {
+    "model": "gpt-5-3-codex-spark",
+    "display": "GPT-5.3 Codex Spark",
+    "sellers": 3,
+    "min_input_usd_per_m": 0.5,
+    "max_input_usd_per_m": 5,
+    "min_output_usd_per_m": 3,
+    "max_output_usd_per_m": 30,
+    "image_generation": false
+  },
+  {
+    "model": "claude-opus-4-6",
+    "display": "Claude Opus 4.6",
+    "sellers": 27,
+    "min_input_usd_per_m": 0.0437,
+    "max_input_usd_per_m": 6,
+    "min_output_usd_per_m": 0.25,
+    "max_output_usd_per_m": 30,
+    "image_generation": false
+  },
+  {
+    "model": "meta-llm-training",
+    "display": "Meta LLM Training",
+    "sellers": 1,
+    "min_input_usd_per_m": 11.225,
+    "max_input_usd_per_m": 11.225,
+    "min_output_usd_per_m": 11,
+    "max_output_usd_per_m": 11,
+    "image_generation": false
+  },
+  {
+    "model": "noax-agent-open-source",
+    "display": "Noax Agent Open Source",
+    "sellers": 1,
+    "min_input_usd_per_m": 12,
+    "max_input_usd_per_m": 12,
+    "min_output_usd_per_m": 12,
+    "max_output_usd_per_m": 12,
+    "image_generation": false
+  },
+  {
+    "model": "densemodel-2-1-private",
+    "display": "DenseModel 2.1 Private",
+    "sellers": 1,
+    "min_input_usd_per_m": 10,
+    "max_input_usd_per_m": 10,
+    "min_output_usd_per_m": 10,
+    "max_output_usd_per_m": 10,
+    "image_generation": false
+  },
+  {
+    "model": "openai-gpt-55",
+    "display": "GPT-5.5",
+    "sellers": 34,
+    "min_input_usd_per_m": 0.0296,
+    "max_input_usd_per_m": 25,
+    "min_output_usd_per_m": 0.1332,
+    "max_output_usd_per_m": 63,
+    "image_generation": false
+  },
+  {
+    "model": "code-review",
+    "display": "Code Review",
+    "sellers": 3,
+    "min_input_usd_per_m": 0.03,
+    "max_input_usd_per_m": 1.2,
+    "min_output_usd_per_m": 0.12,
+    "max_output_usd_per_m": 3,
+    "image_generation": false
+  },
+  {
+    "model": "llama-private-instruct",
+    "display": "Llama Private Instruct",
+    "sellers": 1,
+    "min_input_usd_per_m": 10.5,
+    "max_input_usd_per_m": 10.5,
+    "min_output_usd_per_m": 11.5,
+    "max_output_usd_per_m": 11.5,
+    "image_generation": false
+  },
+  {
+    "model": "meta-scout-private",
+    "display": "Meta Scout Private",
+    "sellers": 1,
+    "min_input_usd_per_m": 11,
+    "max_input_usd_per_m": 11,
+    "min_output_usd_per_m": 11.5,
+    "max_output_usd_per_m": 11.5,
+    "image_generation": false
+  },
+  {
+    "model": "medical-reasoning-r1",
+    "display": "Medical Reasoning R1",
+    "sellers": 1,
+    "min_input_usd_per_m": 1.2,
+    "max_input_usd_per_m": 1.2,
+    "min_output_usd_per_m": 3,
+    "max_output_usd_per_m": 3,
+    "image_generation": false
+  },
+  {
+    "model": "legal-vl1",
+    "display": "Legal VL1",
+    "sellers": 1,
+    "min_input_usd_per_m": 1.2,
+    "max_input_usd_per_m": 1.2,
+    "min_output_usd_per_m": 3,
+    "max_output_usd_per_m": 3,
+    "image_generation": false
+  },
+  {
+    "model": "stratacodingagent-3b",
+    "display": "StrataCodingAgent 3B",
+    "sellers": 1,
+    "min_input_usd_per_m": 10.5,
+    "max_input_usd_per_m": 10.5,
+    "min_output_usd_per_m": 10.5,
+    "max_output_usd_per_m": 10.5,
+    "image_generation": false
+  },
+  {
+    "model": "openai-gpt-56-sol",
+    "display": "GPT-5.6 Sol",
+    "sellers": 28,
+    "min_input_usd_per_m": 0.066405,
+    "max_input_usd_per_m": 5.1,
+    "min_output_usd_per_m": 0.369847,
+    "max_output_usd_per_m": 30.5,
+    "image_generation": false
+  },
+  {
+    "model": "kimi-k3",
+    "display": "Kimi K3",
+    "sellers": 28,
+    "min_input_usd_per_m": 0.005594,
+    "max_input_usd_per_m": 3.75,
+    "min_output_usd_per_m": 0.134251,
+    "max_output_usd_per_m": 18.75,
+    "image_generation": false
+  },
+  {
+    "model": "claude-opus-4-7",
+    "display": "Claude Opus 4.7",
+    "sellers": 28,
+    "min_input_usd_per_m": 0.067251,
+    "max_input_usd_per_m": 10,
+    "min_output_usd_per_m": 0.336256,
+    "max_output_usd_per_m": 50,
+    "image_generation": false
+  },
+  {
+    "model": "claude-opus-5-5",
+    "display": "Claude Opus 5.5",
+    "sellers": 14,
+    "min_input_usd_per_m": 0.1425,
+    "max_input_usd_per_m": 5,
+    "min_output_usd_per_m": 0.8,
+    "max_output_usd_per_m": 25,
+    "image_generation": false
+  },
+  {
+    "model": "stratacodingagent-fast-1b",
+    "display": "StrataCodingAgent Fast 1B",
+    "sellers": 1,
+    "min_input_usd_per_m": 10,
+    "max_input_usd_per_m": 10,
+    "min_output_usd_per_m": 10,
+    "max_output_usd_per_m": 10,
+    "image_generation": false
+  },
+  {
+    "model": "claude-opus-4-5",
+    "display": "Claude Opus 4.5",
+    "sellers": 13,
+    "min_input_usd_per_m": 0.82,
+    "max_input_usd_per_m": 6,
+    "min_output_usd_per_m": 4.1,
+    "max_output_usd_per_m": 30,
+    "image_generation": false
+  },
+  {
+    "model": "openai-gpt-6-astra",
+    "display": "GPT-6 Astra",
+    "sellers": 19,
+    "min_input_usd_per_m": 0.066187,
+    "max_input_usd_per_m": 11,
+    "min_output_usd_per_m": 0.330935,
+    "max_output_usd_per_m": 55,
+    "image_generation": false
+  },
+  {
+    "model": "claude-fable-5-1",
+    "display": "Claude Fable 5.1",
+    "sellers": 16,
+    "min_input_usd_per_m": 0.3525,
+    "max_input_usd_per_m": 12,
+    "min_output_usd_per_m": 1.0999,
+    "max_output_usd_per_m": 60,
+    "image_generation": false
+  },
+  {
+    "model": "claude-fable-5",
+    "display": "Claude Fable 5",
+    "sellers": 24,
+    "min_input_usd_per_m": 0.32,
+    "max_input_usd_per_m": 12,
+    "min_output_usd_per_m": 1.063905,
+    "max_output_usd_per_m": 60,
+    "image_generation": false
+  },
+  {
+    "model": "openai-gpt-54",
+    "display": "GPT-5.4",
+    "sellers": 22,
+    "min_input_usd_per_m": 0.02525,
+    "max_input_usd_per_m": 1.913179,
+    "min_output_usd_per_m": 0.12,
+    "max_output_usd_per_m": 11.491298,
+    "image_generation": false
+  },
+  {
+    "model": "opus4-7-fast",
+    "display": "Opus 4.7 Fast",
+    "sellers": 1,
+    "min_input_usd_per_m": 13,
+    "max_input_usd_per_m": 13,
+    "min_output_usd_per_m": 13,
+    "max_output_usd_per_m": 13,
+    "image_generation": false
+  },
+  {
+    "model": "claude-sonnet-5-5",
+    "display": "Claude Sonnet 5.5",
+    "sellers": 14,
+    "min_input_usd_per_m": 0.12,
+    "max_input_usd_per_m": 3.6,
+    "min_output_usd_per_m": 0.6,
+    "max_output_usd_per_m": 18,
+    "image_generation": false
+  },
+  {
+    "model": "zai-org-glm-5-2",
+    "display": "GLM 5.2",
+    "sellers": 27,
+    "min_input_usd_per_m": 0.001903,
+    "max_input_usd_per_m": 1.529,
+    "min_output_usd_per_m": 0.018905,
+    "max_output_usd_per_m": 4.805,
+    "image_generation": false
+  },
+  {
+    "model": "claude-opus-5",
+    "display": "Claude Opus 5",
+    "sellers": 24,
+    "min_input_usd_per_m": 0.1121,
+    "max_input_usd_per_m": 6,
+    "min_output_usd_per_m": 0.6175,
+    "max_output_usd_per_m": 30,
+    "image_generation": false
+  },
+  {
+    "model": "minimax-m2-7-highspeed",
+    "display": "MiniMax M2.7 Highspeed",
+    "sellers": 7,
+    "min_input_usd_per_m": 0.015,
+    "max_input_usd_per_m": 0.648,
+    "min_output_usd_per_m": 0.12,
+    "max_output_usd_per_m": 2.592,
+    "image_generation": false
+  },
+  {
+    "model": "claude-opus-4-8",
+    "display": "Claude Opus 4.8",
+    "sellers": 36,
+    "min_input_usd_per_m": 0.152,
+    "max_input_usd_per_m": 10,
+    "min_output_usd_per_m": 0.8,
+    "max_output_usd_per_m": 30,
+    "image_generation": false
+  },
+  {
+    "model": "claude-sonnet-4-6",
+    "display": "Claude Sonnet 4.6",
+    "sellers": 23,
+    "min_input_usd_per_m": 0.1045,
+    "max_input_usd_per_m": 3.6,
+    "min_output_usd_per_m": 0.475,
+    "max_output_usd_per_m": 18,
+    "image_generation": false
+  },
+  {
+    "model": "claude-sonnet-5",
+    "display": "Claude Sonnet 5",
+    "sellers": 27,
+    "min_input_usd_per_m": 0.08835,
+    "max_input_usd_per_m": 3,
+    "min_output_usd_per_m": 0.40603,
+    "max_output_usd_per_m": 15,
+    "image_generation": false
+  },
+  {
+    "model": "deepseek-chat",
+    "display": "DeepSeek Chat",
+    "sellers": 10,
+    "min_input_usd_per_m": 0.07,
+    "max_input_usd_per_m": 0.666824,
+    "min_output_usd_per_m": 0.14,
+    "max_output_usd_per_m": 3.431471,
+    "image_generation": false
+  },
+  {
+    "model": "grok-4-5",
+    "display": "Grok 4.5",
+    "sellers": 11,
+    "min_input_usd_per_m": 0.1,
+    "max_input_usd_per_m": 2.27,
+    "min_output_usd_per_m": 0.3,
+    "max_output_usd_per_m": 6.8,
+    "image_generation": false
+  },
+  {
+    "model": "minimax-m27",
+    "display": "MiniMax M2.7",
+    "sellers": 29,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0.5,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 2,
+    "image_generation": false
+  },
+  {
+    "model": "mimo-v2-5-pro",
+    "display": "MiMo V2.5 Pro",
+    "sellers": 3,
+    "min_input_usd_per_m": 0.665,
+    "max_input_usd_per_m": 2.5,
+    "min_output_usd_per_m": 1.995,
+    "max_output_usd_per_m": 6,
+    "image_generation": false
+  },
+  {
+    "model": "deepseek-v4-flash",
+    "display": "DeepSeek V4 Flash 0423",
+    "sellers": 27,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 10,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 10,
+    "image_generation": false
+  },
+  {
+    "model": "openai-gpt-56-terra",
+    "display": "GPT-5.6 Terra",
+    "sellers": 22,
+    "min_input_usd_per_m": 0.0456,
+    "max_input_usd_per_m": 2.5,
+    "min_output_usd_per_m": 0.2755,
+    "max_output_usd_per_m": 15,
+    "image_generation": false
+  },
+  {
+    "model": "sippar-chain-state",
+    "display": "Sippar Chain State",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.01,
+    "max_input_usd_per_m": 0.01,
+    "min_output_usd_per_m": 14.02,
+    "max_output_usd_per_m": 14.02,
+    "image_generation": false
+  },
+  {
+    "model": "openai-gpt-56-sol-pro",
+    "display": "GPT-5.6 Sol Pro",
+    "sellers": 6,
+    "min_input_usd_per_m": 2.25,
+    "max_input_usd_per_m": 3.09375,
+    "min_output_usd_per_m": 11.25,
+    "max_output_usd_per_m": 18.5625,
+    "image_generation": false
+  },
+  {
+    "model": "z-ai-glm-5-3",
+    "display": "GLM 5.3",
+    "sellers": 18,
+    "min_input_usd_per_m": 0.001903,
+    "max_input_usd_per_m": 1.4,
+    "min_output_usd_per_m": 0.107275,
+    "max_output_usd_per_m": 4.4,
+    "image_generation": false
+  },
+  {
+    "model": "deepseek-v4-pro",
+    "display": "DeepSeek V4 Pro",
+    "sellers": 28,
+    "min_input_usd_per_m": 0.010263,
+    "max_input_usd_per_m": 10,
+    "min_output_usd_per_m": 0.020525,
+    "max_output_usd_per_m": 10,
+    "image_generation": false
+  },
+  {
+    "model": "minimax-m3",
+    "display": "MiniMax M3",
+    "sellers": 23,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0.36,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 1.35,
+    "image_generation": false
+  },
+  {
+    "model": "zai-org-glm-5-1",
+    "display": "GLM 5.1",
+    "sellers": 21,
+    "min_input_usd_per_m": 0.149688,
+    "max_input_usd_per_m": 2,
+    "min_output_usd_per_m": 0.470448,
+    "max_output_usd_per_m": 6,
+    "image_generation": false
+  },
+  {
+    "model": "openai-gpt-56-luna",
+    "display": "GPT-5.6 Luna",
+    "sellers": 19,
+    "min_input_usd_per_m": 0.002422,
+    "max_input_usd_per_m": 0.5625,
+    "min_output_usd_per_m": 0.014528,
+    "max_output_usd_per_m": 3.375,
+    "image_generation": false
+  },
+  {
+    "model": "claude-opus-4-8-fast",
+    "display": "Claude Opus 4.8 Fast",
+    "sellers": 8,
+    "min_input_usd_per_m": 1.08,
+    "max_input_usd_per_m": 10.052188,
+    "min_output_usd_per_m": 5.4,
+    "max_output_usd_per_m": 50.260941,
+    "image_generation": false
+  },
+  {
+    "model": "gemini-3-5-flash",
+    "display": "Gemini 3.5 Flash",
+    "sellers": 14,
+    "min_input_usd_per_m": 0.11615,
+    "max_input_usd_per_m": 1.96,
+    "min_output_usd_per_m": 0.58075,
+    "max_output_usd_per_m": 11.72,
+    "image_generation": false
+  },
+  {
+    "model": "claude-opus-5-5-fast",
+    "display": "Claude Opus 5.5 Fast",
+    "sellers": 3,
+    "min_input_usd_per_m": 4.8,
+    "max_input_usd_per_m": 9.2,
+    "min_output_usd_per_m": 24,
+    "max_output_usd_per_m": 46,
+    "image_generation": false
+  },
+  {
+    "model": "grok-4-3",
+    "display": "Grok 4.3",
+    "sellers": 15,
+    "min_input_usd_per_m": 0.01,
+    "max_input_usd_per_m": 1.38,
+    "min_output_usd_per_m": 0.04,
+    "max_output_usd_per_m": 2.75,
+    "image_generation": false
+  },
+  {
+    "model": "openai-gpt-61-sol",
+    "display": "GPT-6.1 Sol",
+    "sellers": 13,
+    "min_input_usd_per_m": 0.017442,
+    "max_input_usd_per_m": 4.2,
+    "min_output_usd_per_m": 0.087212,
+    "max_output_usd_per_m": 15.75,
+    "image_generation": false
+  },
+  {
+    "model": "llama-3-3-70b-instruct",
+    "display": "Llama 3.3 70B Instruct",
+    "sellers": 4,
+    "min_input_usd_per_m": 0.02323,
+    "max_input_usd_per_m": 2,
+    "min_output_usd_per_m": 0.074336,
+    "max_output_usd_per_m": 2,
+    "image_generation": false
+  },
+  {
+    "model": "kimi-k2-6",
+    "display": "Kimi K2.6",
+    "sellers": 19,
+    "min_input_usd_per_m": 0.023179,
+    "max_input_usd_per_m": 1.09,
+    "min_output_usd_per_m": 0.108168,
+    "max_output_usd_per_m": 4.6,
+    "image_generation": false
+  },
+  {
+    "model": "openai-gpt-54-mini",
+    "display": "GPT-5.4 Mini",
+    "sellers": 21,
+    "min_input_usd_per_m": 0.006667,
+    "max_input_usd_per_m": 0.748134,
+    "min_output_usd_per_m": 0.026667,
+    "max_output_usd_per_m": 4.488805,
+    "image_generation": false
+  },
+  {
+    "model": "onchain-token-rankings",
+    "display": "Onchain Token Rankings",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.01,
+    "max_input_usd_per_m": 0.01,
+    "min_output_usd_per_m": 16.44,
+    "max_output_usd_per_m": 16.44,
+    "image_generation": false
+  },
+  {
+    "model": "apex-crypto-agent",
+    "display": "Apex Crypto Agent",
+    "sellers": 1,
+    "min_input_usd_per_m": 1.5,
+    "max_input_usd_per_m": 1.5,
+    "min_output_usd_per_m": 4.5,
+    "max_output_usd_per_m": 4.5,
+    "image_generation": false
+  },
+  {
+    "model": "z-ai-glm-5-3-flash",
+    "display": "GLM 5.3 Flash",
+    "sellers": 21,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0.174,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0.579,
+    "image_generation": false
+  },
+  {
+    "model": "deepseek-v3.2",
+    "display": "DeepSeek V3.2",
+    "sellers": 21,
+    "min_input_usd_per_m": 0.022119,
+    "max_input_usd_per_m": 1.5,
+    "min_output_usd_per_m": 0.035868,
+    "max_output_usd_per_m": 3.2,
+    "image_generation": false
+  },
+  {
+    "model": "argus-crypto-agent",
+    "display": "Argus Crypto Agent",
+    "sellers": 1,
+    "min_input_usd_per_m": 1,
+    "max_input_usd_per_m": 1,
+    "min_output_usd_per_m": 2,
+    "max_output_usd_per_m": 2,
+    "image_generation": false
+  },
+  {
+    "model": "qwen3-5-397b-a17b",
+    "display": "Qwen 3.5 397B",
+    "sellers": 14,
+    "min_input_usd_per_m": 0.1515,
+    "max_input_usd_per_m": 10,
+    "min_output_usd_per_m": 0.909,
+    "max_output_usd_per_m": 10,
+    "image_generation": false
+  },
+  {
+    "model": "deepseek-v4-flash-0731",
+    "display": "DeepSeek V4 Flash 0731",
+    "sellers": 14,
+    "min_input_usd_per_m": 0.006222,
+    "max_input_usd_per_m": 0.484,
+    "min_output_usd_per_m": 0.025541,
+    "max_output_usd_per_m": 1.452,
+    "image_generation": false
+  },
+  {
+    "model": "qwen-3-8-max",
+    "display": "Qwen 3.8 Max",
+    "sellers": 10,
+    "min_input_usd_per_m": 0.0999,
+    "max_input_usd_per_m": 2.5,
+    "min_output_usd_per_m": 0.2999,
+    "max_output_usd_per_m": 7.5,
+    "image_generation": false
+  },
+  {
+    "model": "deepseek-v4-1-flash",
+    "display": "DeepSeek V4.1 Flash",
+    "sellers": 12,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0.211223,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0.844891,
+    "image_generation": false
+  },
+  {
+    "model": "gemini-3-1-pro",
+    "display": "Gemini 3.1 Pro",
+    "sellers": 5,
+    "min_input_usd_per_m": 0.505,
+    "max_input_usd_per_m": 2.2,
+    "min_output_usd_per_m": 3.03,
+    "max_output_usd_per_m": 13.2,
+    "image_generation": false
+  },
+  {
+    "model": "qwen-3-7-max",
+    "display": "Qwen 3.7 Max",
+    "sellers": 10,
+    "min_input_usd_per_m": 0.4646,
+    "max_input_usd_per_m": 2.078672,
+    "min_output_usd_per_m": 1.3938,
+    "max_output_usd_per_m": 6.197523,
+    "image_generation": false
+  },
+  {
+    "model": "qwen3-6-27b",
+    "display": "Qwen 3.6 27B",
+    "sellers": 12,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0.33,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 3.25,
+    "image_generation": false
+  },
+  {
+    "model": "qwen3-8-27b-uncensored",
+    "display": "Qwen 3.8 27B Uncensored",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.3,
+    "max_input_usd_per_m": 0.3,
+    "min_output_usd_per_m": 1.5,
+    "max_output_usd_per_m": 1.5,
+    "image_generation": false
+  },
+  {
+    "model": "minimax-m25",
+    "display": "MiniMax M2.5",
+    "sellers": 26,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0.3,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 1.32,
+    "image_generation": false
+  },
+  {
+    "model": "kimi-k2-5",
+    "display": "Kimi K2.5",
+    "sellers": 16,
+    "min_input_usd_per_m": 0.048285,
+    "max_input_usd_per_m": 0.6,
+    "min_output_usd_per_m": 0.219471,
+    "max_output_usd_per_m": 3,
+    "image_generation": false
+  },
+  {
+    "model": "openai-gpt-6-luna",
+    "display": "GPT-6 Luna",
+    "sellers": 11,
+    "min_input_usd_per_m": 0.002327,
+    "max_input_usd_per_m": 0.11,
+    "min_output_usd_per_m": 0.011634,
+    "max_output_usd_per_m": 0.55,
+    "image_generation": false
+  },
+  {
+    "model": "gemini-3-flash-preview",
+    "display": "Gemini 3 Flash Preview",
+    "sellers": 12,
+    "min_input_usd_per_m": 0.0122,
+    "max_input_usd_per_m": 0.567372,
+    "min_output_usd_per_m": 0.0732,
+    "max_output_usd_per_m": 3.3,
+    "image_generation": false
+  },
+  {
+    "model": "qwen3-5-27b",
+    "display": "Qwen 3.5 27B",
+    "sellers": 2,
+    "min_input_usd_per_m": 0.21,
+    "max_input_usd_per_m": 0.3,
+    "min_output_usd_per_m": 1.68,
+    "max_output_usd_per_m": 2.4,
+    "image_generation": false
+  },
+  {
+    "model": "gpt-oss-120b",
+    "display": "GPT OSS 120B",
+    "sellers": 12,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 1,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 3,
+    "image_generation": false
+  },
+  {
+    "model": "openai-gpt-54-pro",
+    "display": "GPT-5.4 Pro",
+    "sellers": 9,
+    "min_input_usd_per_m": 3.40875,
+    "max_input_usd_per_m": 27.4,
+    "min_output_usd_per_m": 20.4525,
+    "max_output_usd_per_m": 164.37,
+    "image_generation": false
+  },
+  {
+    "model": "qwen3-8-27b",
+    "display": "Qwen 3.8 27B",
+    "sellers": 5,
+    "min_input_usd_per_m": 0.045,
+    "max_input_usd_per_m": 0.396,
+    "min_output_usd_per_m": 0.32,
+    "max_output_usd_per_m": 2.97,
+    "image_generation": false
+  },
+  {
+    "model": "xiaomi-mimo-v2-5",
+    "display": "MiMo-V2.5",
+    "sellers": 6,
+    "min_input_usd_per_m": 0.059675,
+    "max_input_usd_per_m": 0.336,
+    "min_output_usd_per_m": 0.11935,
+    "max_output_usd_per_m": 1.4,
+    "image_generation": false
+  },
+  {
+    "model": "kimi-coding-k3",
+    "display": "Kimi Coding K3",
+    "sellers": 1,
+    "min_input_usd_per_m": 1.875,
+    "max_input_usd_per_m": 1.875,
+    "min_output_usd_per_m": 9.375,
+    "max_output_usd_per_m": 9.375,
+    "image_generation": false
+  },
+  {
+    "model": "kimi-k2-7-code",
+    "display": "Kimi K2.7 Code",
+    "sellers": 13,
+    "min_input_usd_per_m": 0.2025,
+    "max_input_usd_per_m": 1.05,
+    "min_output_usd_per_m": 0.945,
+    "max_output_usd_per_m": 4.4,
+    "image_generation": false
+  },
+  {
+    "model": "deepseek-r1",
+    "display": "DeepSeek R1",
+    "sellers": 9,
+    "min_input_usd_per_m": 0.001,
+    "max_input_usd_per_m": 5.5,
+    "min_output_usd_per_m": 0.001,
+    "max_output_usd_per_m": 20,
+    "image_generation": false
+  },
+  {
+    "model": "gemini-3-1-pro-preview",
+    "display": "Gemini 3.1 Pro Preview",
+    "sellers": 16,
+    "min_input_usd_per_m": 0.22725,
+    "max_input_usd_per_m": 2.5,
+    "min_output_usd_per_m": 1.3635,
+    "max_output_usd_per_m": 15,
+    "image_generation": false
+  },
+  {
+    "model": "qwen3-6-35b-a3b",
+    "display": "Qwen 3.6 35B A3B",
+    "sellers": 11,
+    "min_input_usd_per_m": 0.04275,
+    "max_input_usd_per_m": 10,
+    "min_output_usd_per_m": 0.285,
+    "max_output_usd_per_m": 10,
+    "image_generation": false
+  },
+  {
+    "model": "gemini-3-7-flash",
+    "display": "Gemini 3.7 Flash",
+    "sellers": 8,
+    "min_input_usd_per_m": 0.0915,
+    "max_input_usd_per_m": 0.608631,
+    "min_output_usd_per_m": 0.4575,
+    "max_output_usd_per_m": 3.043157,
+    "image_generation": false
+  },
+  {
+    "model": "openai-gpt-56-terra-pro",
+    "display": "GPT-5.6 Terra Pro",
+    "sellers": 7,
+    "min_input_usd_per_m": 0.891,
+    "max_input_usd_per_m": 2.6,
+    "min_output_usd_per_m": 5.346,
+    "max_output_usd_per_m": 15.1,
+    "image_generation": false
+  },
+  {
+    "model": "mistral-large",
+    "display": "Mistral Large",
+    "sellers": 8,
+    "min_input_usd_per_m": 0.090161,
+    "max_input_usd_per_m": 2.5,
+    "min_output_usd_per_m": 0.341822,
+    "max_output_usd_per_m": 8,
+    "image_generation": false
+  },
+  {
+    "model": "tavily-web-search",
+    "display": "Tavily Web Search",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.01,
+    "max_input_usd_per_m": 0.01,
+    "min_output_usd_per_m": 18.7,
+    "max_output_usd_per_m": 18.7,
+    "image_generation": false
+  },
+  {
+    "model": "deepseek-v4-pro-0813",
+    "display": "DeepSeek V4 Pro 0813",
+    "sellers": 8,
+    "min_input_usd_per_m": 0.0999,
+    "max_input_usd_per_m": 1.32,
+    "min_output_usd_per_m": 0.2999,
+    "max_output_usd_per_m": 3.96,
+    "image_generation": false
+  },
+  {
+    "model": "seedance-2-5-image-to-video-basic",
+    "display": "Seedance 2.5",
+    "sellers": 2,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "claude-haiku-4-5",
+    "display": "Claude Haiku 4.5",
+    "sellers": 13,
+    "min_input_usd_per_m": 0.045125,
+    "max_input_usd_per_m": 1.07,
+    "min_output_usd_per_m": 0.1995,
+    "max_output_usd_per_m": 5.35,
+    "image_generation": false
+  },
+  {
+    "model": "google-gemma-4-31b-it",
+    "display": "Google Gemma 4 31B Instruct",
+    "sellers": 15,
+    "min_input_usd_per_m": 0.0018,
+    "max_input_usd_per_m": 0.15,
+    "min_output_usd_per_m": 0.0068,
+    "max_output_usd_per_m": 0.46,
+    "image_generation": false
+  },
+  {
+    "model": "deepseek-v4-flash-0731-fast",
+    "display": "DeepSeek V4 Flash 0731 Fast",
+    "sellers": 6,
+    "min_input_usd_per_m": 0.175,
+    "max_input_usd_per_m": 0.28,
+    "min_output_usd_per_m": 0.35,
+    "max_output_usd_per_m": 0.56,
+    "image_generation": false
+  },
+  {
+    "model": "gpt-image-2",
+    "display": "GPT Image 2",
+    "sellers": 3,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0.1,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0.45,
+    "image_generation": true
+  },
+  {
+    "model": "nano-banana-pro",
+    "display": "Nano Banana Pro",
+    "sellers": 3,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0.1,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0.45,
+    "image_generation": true
+  },
+  {
+    "model": "muse-glimmer-30b",
+    "display": "Muse Glimmer 30B",
+    "sellers": 2,
+    "min_input_usd_per_m": 0.285,
+    "max_input_usd_per_m": 0.3,
+    "min_output_usd_per_m": 1.045,
+    "max_output_usd_per_m": 1.1,
+    "image_generation": false
+  },
+  {
+    "model": "seedream-v5-pro",
+    "display": "Seedream V5 Pro",
+    "sellers": 3,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0.1,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0.45,
+    "image_generation": true
+  },
+  {
+    "model": "gemma-4-26b-a4b-uncensored",
+    "display": "Gemma 4 26B A4B Uncensored",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.15,
+    "max_input_usd_per_m": 0.15,
+    "min_output_usd_per_m": 0.7,
+    "max_output_usd_per_m": 0.7,
+    "image_generation": false
+  },
+  {
+    "model": "deepseek-v3-1",
+    "display": "DeepSeek V3.1",
+    "sellers": 2,
+    "min_input_usd_per_m": 0.3325,
+    "max_input_usd_per_m": 0.35,
+    "min_output_usd_per_m": 0.95,
+    "max_output_usd_per_m": 1,
+    "image_generation": false
+  },
+  {
+    "model": "gemini-3-6-flash",
+    "display": "Gemini 3.6 Flash",
+    "sellers": 8,
+    "min_input_usd_per_m": 0.1,
+    "max_input_usd_per_m": 1.86,
+    "min_output_usd_per_m": 0.5,
+    "max_output_usd_per_m": 9.3,
+    "image_generation": false
+  },
+  {
+    "model": "claude-sonnet-4-5",
+    "display": "Claude Sonnet 4.5",
+    "sellers": 13,
+    "min_input_usd_per_m": 0.340875,
+    "max_input_usd_per_m": 3.75,
+    "min_output_usd_per_m": 1.704375,
+    "max_output_usd_per_m": 18.75,
+    "image_generation": false
+  },
+  {
+    "model": "sippar-skills",
+    "display": "Sippar Skills",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.01,
+    "max_input_usd_per_m": 0.01,
+    "min_output_usd_per_m": 18.7,
+    "max_output_usd_per_m": 18.7,
+    "image_generation": false
+  },
+  {
+    "model": "gpt-image-2-5-sunburst",
+    "display": "GPT Image 2.5 Sunburst",
+    "sellers": 3,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0.1,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0.45,
+    "image_generation": true
+  },
+  {
+    "model": "gemini-3-8-flash",
+    "display": "Gemini 3.8 Flash",
+    "sellers": 11,
+    "min_input_usd_per_m": 0.0475,
+    "max_input_usd_per_m": 0.825,
+    "min_output_usd_per_m": 0.1235,
+    "max_output_usd_per_m": 4.125,
+    "image_generation": false
+  },
+  {
+    "model": "recraft-v4-pro",
+    "display": "Recraft V4 Pro",
+    "sellers": 3,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0.1,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0.45,
+    "image_generation": true
+  },
+  {
+    "model": "openai-gpt-6-sol",
+    "display": "GPT-6 Sol",
+    "sellers": 15,
+    "min_input_usd_per_m": 0.015425,
+    "max_input_usd_per_m": 2.2,
+    "min_output_usd_per_m": 0.077123,
+    "max_output_usd_per_m": 10,
+    "image_generation": false
+  },
+  {
+    "model": "openai-gpt-55-pro",
+    "display": "GPT-5.5 Pro",
+    "sellers": 9,
+    "min_input_usd_per_m": 2.025,
+    "max_input_usd_per_m": 38,
+    "min_output_usd_per_m": 12.15,
+    "max_output_usd_per_m": 250,
+    "image_generation": false
+  },
+  {
+    "model": "seedance-2-0-image-to-video-basic",
+    "display": "Seedance 2.0",
+    "sellers": 2,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "zai-org-glm-5",
+    "display": "GLM 5",
+    "sellers": 20,
+    "min_input_usd_per_m": 0.0648,
+    "max_input_usd_per_m": 1,
+    "min_output_usd_per_m": 0.20736,
+    "max_output_usd_per_m": 3.2,
+    "image_generation": false
+  },
+  {
+    "model": "grok-4-7",
+    "display": "Grok 4.7",
+    "sellers": 9,
+    "min_input_usd_per_m": 0.033174,
+    "max_input_usd_per_m": 1.56,
+    "min_output_usd_per_m": 0.099521,
+    "max_output_usd_per_m": 4.68,
+    "image_generation": false
+  },
+  {
+    "model": "kimi-coding-highspeed",
+    "display": "Kimi Coding Highspeed",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.56,
+    "max_input_usd_per_m": 0.56,
+    "min_output_usd_per_m": 2.65,
+    "max_output_usd_per_m": 2.65,
+    "image_generation": false
+  },
+  {
+    "model": "qwen-3-7-plus",
+    "display": "Qwen 3.7 Plus",
+    "sellers": 7,
+    "min_input_usd_per_m": 0.11615,
+    "max_input_usd_per_m": 0.431714,
+    "min_output_usd_per_m": 0.4646,
+    "max_output_usd_per_m": 1.726857,
+    "image_generation": false
+  },
+  {
+    "model": "openai-gpt-56-luna-pro",
+    "display": "GPT-5.6 Luna Pro",
+    "sellers": 4,
+    "min_input_usd_per_m": 0.125,
+    "max_input_usd_per_m": 0.24,
+    "min_output_usd_per_m": 0.75,
+    "max_output_usd_per_m": 1.44,
+    "image_generation": false
+  },
+  {
+    "model": "nemotron3-pro",
+    "display": "Nemotron 3 Pro",
+    "sellers": 1,
+    "min_input_usd_per_m": 13.25,
+    "max_input_usd_per_m": 13.25,
+    "min_output_usd_per_m": 13.25,
+    "max_output_usd_per_m": 13.25,
+    "image_generation": false
+  },
+  {
+    "model": "nano-banana-2",
+    "display": "Nano Banana 2",
+    "sellers": 3,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0.1,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0.45,
+    "image_generation": true
+  },
+  {
+    "model": "gpt-image-2-5-flare",
+    "display": "GPT Image 2.5 Flare",
+    "sellers": 3,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0.1,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0.45,
+    "image_generation": true
+  },
+  {
+    "model": "sippar-x-social",
+    "display": "Sippar X Social",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.01,
+    "max_input_usd_per_m": 0.01,
+    "min_output_usd_per_m": 18.7,
+    "max_output_usd_per_m": 18.7,
+    "image_generation": false
+  },
+  {
+    "model": "gpt-image-1-5",
+    "display": "GPT Image 1.5",
+    "sellers": 3,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0.1,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0.45,
+    "image_generation": true
+  },
+  {
+    "model": "qwen3-32b",
+    "display": "Qwen 3 32B",
+    "sellers": 5,
+    "min_input_usd_per_m": 0.0532,
+    "max_input_usd_per_m": 0.12,
+    "min_output_usd_per_m": 0.1596,
+    "max_output_usd_per_m": 0.5,
+    "image_generation": false
+  },
+  {
+    "model": "veo3.1-full-image-to-video",
+    "display": "Veo 3.1 Full Quality",
+    "sellers": 2,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "grok-4-6",
+    "display": "Grok 4.6",
+    "sellers": 9,
+    "min_input_usd_per_m": 0.1,
+    "max_input_usd_per_m": 1.269871,
+    "min_output_usd_per_m": 0.3,
+    "max_output_usd_per_m": 3.804018,
+    "image_generation": false
+  },
+  {
+    "model": "sippar-flight-search",
+    "display": "Sippar Flight Search",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.01,
+    "max_input_usd_per_m": 0.01,
+    "min_output_usd_per_m": 18.7,
+    "max_output_usd_per_m": 18.7,
+    "image_generation": false
+  },
+  {
+    "model": "claude-haiku-5-5",
+    "display": "Claude Haiku 5.5",
+    "sellers": 8,
+    "min_input_usd_per_m": 0.02,
+    "max_input_usd_per_m": 0.17,
+    "min_output_usd_per_m": 0.1875,
+    "max_output_usd_per_m": 0.67,
+    "image_generation": false
+  },
+  {
+    "model": "qwen-image-3-pro",
+    "display": "Qwen Image 3 Pro",
+    "sellers": 3,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0.1,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0.45,
+    "image_generation": true
+  },
+  {
+    "model": "qwen-2-5-7b-instruct",
+    "display": "Qwen 2.5 7B Instruct",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.1,
+    "max_input_usd_per_m": 0.1,
+    "min_output_usd_per_m": 0.2,
+    "max_output_usd_per_m": 0.2,
+    "image_generation": false
+  },
+  {
+    "model": "codex-5-5",
+    "display": "Codex 5.5",
+    "sellers": 1,
+    "min_input_usd_per_m": 2.5,
+    "max_input_usd_per_m": 2.5,
+    "min_output_usd_per_m": 15.0228,
+    "max_output_usd_per_m": 15.0228,
+    "image_generation": false
+  },
+  {
+    "model": "xiaomi-mimo-v2-6-flash",
+    "display": "MiMo-V2.6-Flash",
+    "sellers": 5,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0.154,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0.308,
+    "image_generation": false
+  },
+  {
+    "model": "wan-3-0-text-to-video",
+    "display": "Wan 3.0",
+    "sellers": 3,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "flux-2-max",
+    "display": "Flux 2 Max",
+    "sellers": 3,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0.1,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0.45,
+    "image_generation": true
+  },
+  {
+    "model": "grok-4-20",
+    "display": "Grok 4.20",
+    "sellers": 7,
+    "min_input_usd_per_m": 0.48422,
+    "max_input_usd_per_m": 1.42,
+    "min_output_usd_per_m": 0.96503,
+    "max_output_usd_per_m": 2.835,
+    "image_generation": false
+  },
+  {
+    "model": "colony-router",
+    "display": "Colony Router",
+    "sellers": 1,
+    "min_input_usd_per_m": 5,
+    "max_input_usd_per_m": 5,
+    "min_output_usd_per_m": 20,
+    "max_output_usd_per_m": 20,
+    "image_generation": false
+  },
+  {
+    "model": "ling-3-0-flash",
+    "display": "Ling 3.0 Flash",
+    "sellers": 2,
+    "min_input_usd_per_m": 0.02,
+    "max_input_usd_per_m": 0.35,
+    "min_output_usd_per_m": 0.06,
+    "max_output_usd_per_m": 1,
+    "image_generation": false
+  },
+  {
+    "model": "qwen-2-5-7b",
+    "display": "Qwen 2.5 7B",
+    "sellers": 3,
+    "min_input_usd_per_m": 0.025,
+    "max_input_usd_per_m": 0.1,
+    "min_output_usd_per_m": 0.065,
+    "max_output_usd_per_m": 0.5,
+    "image_generation": false
+  },
+  {
+    "model": "llama-3-1-8b-instant",
+    "display": "Llama 3.1 8B Instant",
+    "sellers": 1,
+    "min_input_usd_per_m": 5,
+    "max_input_usd_per_m": 5,
+    "min_output_usd_per_m": 10,
+    "max_output_usd_per_m": 10,
+    "image_generation": false
+  },
+  {
+    "model": "nvidia-nemotron-3-5-lightning-30b-a3b",
+    "display": "NVIDIA Nemotron 3.5 Lightning 30B",
+    "sellers": 3,
+    "min_input_usd_per_m": 0.0312,
+    "max_input_usd_per_m": 0.07,
+    "min_output_usd_per_m": 0.144,
+    "max_output_usd_per_m": 0.2,
+    "image_generation": false
+  },
+  {
+    "model": "kling-video-v3-pro-text-to-video",
+    "display": "Kling Video V3 Pro Text To Video",
+    "sellers": 1,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "gemini-3-5-flash-lite",
+    "display": "Gemini 3.5 Flash-Lite",
+    "sellers": 7,
+    "min_input_usd_per_m": 0.183,
+    "max_input_usd_per_m": 0.37,
+    "min_output_usd_per_m": 1.525,
+    "max_output_usd_per_m": 3.07,
+    "image_generation": false
+  },
+  {
+    "model": "gpt-oss-20b",
+    "display": "GPT OSS 20B",
+    "sellers": 3,
+    "min_input_usd_per_m": 0.000356,
+    "max_input_usd_per_m": 0.5,
+    "min_output_usd_per_m": 0.001782,
+    "max_output_usd_per_m": 1.5,
+    "image_generation": false
+  },
+  {
+    "model": "sippar-linkedin-social",
+    "display": "Sippar Linkedin Social",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.01,
+    "max_input_usd_per_m": 0.01,
+    "min_output_usd_per_m": 28,
+    "max_output_usd_per_m": 28,
+    "image_generation": false
+  },
+  {
+    "model": "qwen-3-8-flash",
+    "display": "Qwen 3.8 Flash",
+    "sellers": 5,
+    "min_input_usd_per_m": 0.042,
+    "max_input_usd_per_m": 0.08915,
+    "min_output_usd_per_m": 0.147,
+    "max_output_usd_per_m": 0.312025,
+    "image_generation": false
+  },
+  {
+    "model": "qwen3-coder-plus",
+    "display": "Qwen 3 Coder Plus",
+    "sellers": 2,
+    "min_input_usd_per_m": 0.0945,
+    "max_input_usd_per_m": 0.28126,
+    "min_output_usd_per_m": 0.405,
+    "max_output_usd_per_m": 1.12406,
+    "image_generation": false
+  },
+  {
+    "model": "grok-imagine-image-quality",
+    "display": "Grok Imagine High Quality (SOTA)",
+    "sellers": 3,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0.1,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0.45,
+    "image_generation": true
+  },
+  {
+    "model": "e2ee-glm-5-2-p",
+    "display": "E2EE GLM 5.2",
+    "sellers": 4,
+    "min_input_usd_per_m": 0.59675,
+    "max_input_usd_per_m": 1.462409,
+    "min_output_usd_per_m": 1.96075,
+    "max_output_usd_per_m": 4.805059,
+    "image_generation": false
+  },
+  {
+    "model": "grok-imagine-image-2-0",
+    "display": "Grok Imagine 2.0",
+    "sellers": 3,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0.1,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0.45,
+    "image_generation": true
+  },
+  {
+    "model": "kling-video-v3-standard-image-to-video",
+    "display": "Kling Video V3 Standard Image To Video",
+    "sellers": 1,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "ideogram-v4",
+    "display": "Ideogram V4",
+    "sellers": 3,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0.1,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0.45,
+    "image_generation": true
+  },
+  {
+    "model": "qwen3-coder-480b-a35b-instruct-turbo",
+    "display": "Qwen 3 Coder 480B Turbo",
+    "sellers": 13,
+    "min_input_usd_per_m": 0.005,
+    "max_input_usd_per_m": 0.30318,
+    "min_output_usd_per_m": 0.015,
+    "max_output_usd_per_m": 1.91664,
+    "image_generation": false
+  },
+  {
+    "model": "claude-haiku-4-5-20251001",
+    "display": "Claude Haiku 4.5 20251001",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.3,
+    "max_input_usd_per_m": 0.3,
+    "min_output_usd_per_m": 1.5,
+    "max_output_usd_per_m": 1.5,
+    "image_generation": false
+  },
+  {
+    "model": "nano-banana-2-lite",
+    "display": "Nano Banana 2 Lite",
+    "sellers": 3,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0.1,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0.45,
+    "image_generation": true
+  },
+  {
+    "model": "claude-opus-4-7-fast",
+    "display": "Claude Opus 4.7 Fast",
+    "sellers": 3,
+    "min_input_usd_per_m": 4.2984,
+    "max_input_usd_per_m": 12.276,
+    "min_output_usd_per_m": 21.492,
+    "max_output_usd_per_m": 61.38,
+    "image_generation": false
+  },
+  {
+    "model": "openai-gpt-53-codex",
+    "display": "GPT-5.3 Codex",
+    "sellers": 12,
+    "min_input_usd_per_m": 0.008333,
+    "max_input_usd_per_m": 2,
+    "min_output_usd_per_m": 0.1,
+    "max_output_usd_per_m": 14.812004,
+    "image_generation": false
+  },
+  {
+    "model": "qwen3-vl-30b-a3b-instruct",
+    "display": "Qwen 3 VL 30B A3B Instruct",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.2,
+    "max_input_usd_per_m": 0.2,
+    "min_output_usd_per_m": 0.7,
+    "max_output_usd_per_m": 0.7,
+    "image_generation": false
+  },
+  {
+    "model": "krea-2-turbo",
+    "display": "Krea 2 Turbo",
+    "sellers": 3,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0.1,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0.45,
+    "image_generation": true
+  },
+  {
+    "model": "ltx-2-v2-3-fast-text-to-video",
+    "display": "LTX Video 2.3 Fast",
+    "sellers": 1,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "hunyuan-image-v3",
+    "display": "Hunyuan Image 3.0",
+    "sellers": 3,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0.1,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0.45,
+    "image_generation": true
+  },
+  {
+    "model": "qwen-image-3",
+    "display": "Qwen Image 3",
+    "sellers": 3,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0.1,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0.45,
+    "image_generation": true
+  },
+  {
+    "model": "flux-2-pro",
+    "display": "Flux 2 Pro",
+    "sellers": 3,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0.1,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0.45,
+    "image_generation": true
+  },
+  {
+    "model": "minimax-h3-max-image-to-video",
+    "display": "MiniMax H3 Max",
+    "sellers": 3,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "aion-labs-aion-3-0-mini",
+    "display": "Aion 3.0 Mini",
+    "sellers": 5,
+    "min_input_usd_per_m": 0.38,
+    "max_input_usd_per_m": 0.615124,
+    "min_output_usd_per_m": 0.77,
+    "max_output_usd_per_m": 1.230247,
+    "image_generation": false
+  },
+  {
+    "model": "qwen-3-6-plus",
+    "display": "Qwen 3.6 Plus Uncensored",
+    "sellers": 11,
+    "min_input_usd_per_m": 0.12625,
+    "max_input_usd_per_m": 1.25,
+    "min_output_usd_per_m": 0.7575,
+    "max_output_usd_per_m": 3.75,
+    "image_generation": false
+  },
+  {
+    "model": "krea-v2-large",
+    "display": "Krea v2 Large",
+    "sellers": 3,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0.1,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0.45,
+    "image_generation": true
+  },
+  {
+    "model": "mimo-v2-6-pro",
+    "display": "MiMo V2.6 Pro",
+    "sellers": 3,
+    "min_input_usd_per_m": 0.1,
+    "max_input_usd_per_m": 0.479,
+    "min_output_usd_per_m": 0.2,
+    "max_output_usd_per_m": 0.957,
+    "image_generation": false
+  },
+  {
+    "model": "luma-uni-1-max",
+    "display": "Luma Uni-1 Max",
+    "sellers": 3,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0.1,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0.45,
+    "image_generation": true
+  },
+  {
+    "model": "kimi-k3-fast-api",
+    "display": "Kimi K3 Fast",
+    "sellers": 6,
+    "min_input_usd_per_m": 2.07,
+    "max_input_usd_per_m": 4.005624,
+    "min_output_usd_per_m": 10.35,
+    "max_output_usd_per_m": 20.028121,
+    "image_generation": false
+  },
+  {
+    "model": "kling-v3-pro-text-to-video",
+    "display": "Kling V3 Pro",
+    "sellers": 2,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "mistral-small-3-2-24b-instruct",
+    "display": "Mistral Small 3.2 24B Instruct",
+    "sellers": 8,
+    "min_input_usd_per_m": 0.008484,
+    "max_input_usd_per_m": 0.5,
+    "min_output_usd_per_m": 0.022725,
+    "max_output_usd_per_m": 1.5,
+    "image_generation": false
+  },
+  {
+    "model": "llama-3.3-70b",
+    "display": "Llama 3.3 70B",
+    "sellers": 8,
+    "min_input_usd_per_m": 0.2387,
+    "max_input_usd_per_m": 3,
+    "min_output_usd_per_m": 0.5775,
+    "max_output_usd_per_m": 10,
+    "image_generation": false
+  },
+  {
+    "model": "qwen2-5",
+    "display": "Qwen 2.5",
+    "sellers": 5,
+    "min_input_usd_per_m": 1,
+    "max_input_usd_per_m": 2,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 2,
+    "image_generation": false
+  },
+  {
+    "model": "abliteration-abliterated-model-large-v2",
+    "display": "Abliterated Large V2",
+    "sellers": 4,
+    "min_input_usd_per_m": 1.34,
+    "max_input_usd_per_m": 2.1,
+    "min_output_usd_per_m": 2.23,
+    "max_output_usd_per_m": 3.5,
+    "image_generation": false
+  },
+  {
+    "model": "seedance-2-0-fast-image-to-video-basic",
+    "display": "Seedance 2.0 Fast",
+    "sellers": 2,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "seedance-2-0-fast-text-to-video-basic",
+    "display": "Seedance 2.0 Fast",
+    "sellers": 2,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "google-gemma-4-26b-a4b-it",
+    "display": "Google Gemma 4 26B A4B Instruct",
+    "sellers": 10,
+    "min_input_usd_per_m": 0.000756,
+    "max_input_usd_per_m": 0.15,
+    "min_output_usd_per_m": 0.00252,
+    "max_output_usd_per_m": 0.4,
+    "image_generation": false
+  },
+  {
+    "model": "wan-3-0-image-to-video",
+    "display": "Wan 3.0",
+    "sellers": 3,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "openai-gpt-52",
+    "display": "GPT-5.2",
+    "sellers": 12,
+    "min_input_usd_per_m": 0.03,
+    "max_input_usd_per_m": 1.925,
+    "min_output_usd_per_m": 0.133333,
+    "max_output_usd_per_m": 15.4,
+    "image_generation": false
+  },
+  {
+    "model": "nansen-crypto-screener",
+    "display": "Nansen Crypto Screener",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.01,
+    "max_input_usd_per_m": 0.01,
+    "min_output_usd_per_m": 16.44,
+    "max_output_usd_per_m": 16.44,
+    "image_generation": false
+  },
+  {
+    "model": "claude-opus-5-fast",
+    "display": "Claude Opus 5 Fast",
+    "sellers": 6,
+    "min_input_usd_per_m": 5.856,
+    "max_input_usd_per_m": 9,
+    "min_output_usd_per_m": 29.28,
+    "max_output_usd_per_m": 45,
+    "image_generation": false
+  },
+  {
+    "model": "veo3.1-fast-image-to-video",
+    "display": "Veo 3.1 Fast",
+    "sellers": 3,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "qwen3-235b-a22b-instruct-2507",
+    "display": "Qwen 3 235B A22B Instruct 2507",
+    "sellers": 8,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 2,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 6,
+    "image_generation": false
+  },
+  {
+    "model": "openai-gpt-52-codex",
+    "display": "GPT-5.2 Codex",
+    "sellers": 8,
+    "min_input_usd_per_m": 0.199071,
+    "max_input_usd_per_m": 1.095,
+    "min_output_usd_per_m": 1.59075,
+    "max_output_usd_per_m": 8.75,
+    "image_generation": false
+  },
+  {
+    "model": "qwen3-235b-a22b-thinking-2507",
+    "display": "Qwen 3 235B A22B Thinking 2507",
+    "sellers": 14,
+    "min_input_usd_per_m": 0.0162,
+    "max_input_usd_per_m": 0.45,
+    "min_output_usd_per_m": 0.0162,
+    "max_output_usd_per_m": 3.5,
+    "image_generation": false
+  },
+  {
+    "model": "krea-v2-medium",
+    "display": "Krea v2 Medium",
+    "sellers": 3,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0.1,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0.45,
+    "image_generation": true
+  },
+  {
+    "model": "flux-3-image",
+    "display": "Flux 3",
+    "sellers": 1,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0,
+    "image_generation": true
+  },
+  {
+    "model": "qwen-image",
+    "display": "Qwen Image",
+    "sellers": 3,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0.1,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0.45,
+    "image_generation": true
+  },
+  {
+    "model": "luma-uni-1",
+    "display": "Luma Uni-1",
+    "sellers": 3,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0.1,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0.45,
+    "image_generation": true
+  },
+  {
+    "model": "aion-labs-aion-3-5",
+    "display": "Aion 3.5",
+    "sellers": 3,
+    "min_input_usd_per_m": 1.875,
+    "max_input_usd_per_m": 3.020169,
+    "min_output_usd_per_m": 3.75,
+    "max_output_usd_per_m": 6.040338,
+    "image_generation": false
+  },
+  {
+    "model": "grok-imagine-1-5-lite-text-to-video",
+    "display": "Grok Imagine 1.5 Lite",
+    "sellers": 3,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "seedance-2-0-mini-image-to-video-basic",
+    "display": "Seedance 2.0 Mini",
+    "sellers": 1,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "chainscout",
+    "display": "Chainscout",
+    "sellers": 1,
+    "min_input_usd_per_m": 4,
+    "max_input_usd_per_m": 4,
+    "min_output_usd_per_m": 24,
+    "max_output_usd_per_m": 24,
+    "image_generation": false
+  },
+  {
+    "model": "wan-2-7-pro-text-to-image",
+    "display": "Wan 2.7 Pro",
+    "sellers": 3,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0.1,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0.45,
+    "image_generation": true
+  },
+  {
+    "model": "crypto-skills",
+    "display": "Crypto Skills",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.01,
+    "max_input_usd_per_m": 0.01,
+    "min_output_usd_per_m": 18.7,
+    "max_output_usd_per_m": 18.7,
+    "image_generation": false
+  },
+  {
+    "model": "gemini-2-5-flash",
+    "display": "Gemini 2.5 Flash",
+    "sellers": 9,
+    "min_input_usd_per_m": 0.07575,
+    "max_input_usd_per_m": 0.33,
+    "min_output_usd_per_m": 0.63125,
+    "max_output_usd_per_m": 2.75,
+    "image_generation": false
+  },
+  {
+    "model": "zai-org-glm-4.6",
+    "display": "GLM 4.6",
+    "sellers": 13,
+    "min_input_usd_per_m": 0.02623,
+    "max_input_usd_per_m": 0.473,
+    "min_output_usd_per_m": 0.10675,
+    "max_output_usd_per_m": 1.819231,
+    "image_generation": false
+  },
+  {
+    "model": "gemini-omni-flash-1-1-text-to-video",
+    "display": "Gemini Omni Flash 1.1",
+    "sellers": 3,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "lustify-v8",
+    "display": "Lustify v8",
+    "sellers": 3,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0.1,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0.45,
+    "image_generation": true
+  },
+  {
+    "model": "grok-41-fast",
+    "display": "Grok 41 Fast",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.26,
+    "max_input_usd_per_m": 0.26,
+    "min_output_usd_per_m": 0.66,
+    "max_output_usd_per_m": 0.66,
+    "image_generation": false
+  },
+  {
+    "model": "quicknode-blockchain-data",
+    "display": "Quicknode Blockchain Data",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.01,
+    "max_input_usd_per_m": 0.01,
+    "min_output_usd_per_m": 14.02,
+    "max_output_usd_per_m": 14.02,
+    "image_generation": false
+  },
+  {
+    "model": "wai-illustrious",
+    "display": "Anime (WAI)",
+    "sellers": 3,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0.1,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0.45,
+    "image_generation": true
+  },
+  {
+    "model": "zai-org-glm-4.7-flash",
+    "display": "GLM 4.7 Flash",
+    "sellers": 13,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0.100318,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0.5,
+    "image_generation": false
+  },
+  {
+    "model": "gpt-5-mini",
+    "display": "GPT-5 Mini",
+    "sellers": 3,
+    "min_input_usd_per_m": 0.063125,
+    "max_input_usd_per_m": 0.268,
+    "min_output_usd_per_m": 0.505,
+    "max_output_usd_per_m": 2.14,
+    "image_generation": false
+  },
+  {
+    "model": "qwen-image-2-pro",
+    "display": "Qwen Image 2 Pro",
+    "sellers": 3,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0.1,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0.45,
+    "image_generation": true
+  },
+  {
+    "model": "qwen3-8b",
+    "display": "Qwen 3 8B",
+    "sellers": 3,
+    "min_input_usd_per_m": 0.001,
+    "max_input_usd_per_m": 0.36,
+    "min_output_usd_per_m": 0.001,
+    "max_output_usd_per_m": 1.4,
+    "image_generation": false
+  },
+  {
+    "model": "qwen-image-2",
+    "display": "Qwen Image 2",
+    "sellers": 3,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0.1,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0.45,
+    "image_generation": true
+  },
+  {
+    "model": "nvidia-nemetron-3-ultra-training",
+    "display": "NVIDIA Nemetron 3 Ultra Training",
+    "sellers": 1,
+    "min_input_usd_per_m": 2.25,
+    "max_input_usd_per_m": 2.25,
+    "min_output_usd_per_m": 2.25,
+    "max_output_usd_per_m": 2.25,
+    "image_generation": false
+  },
+  {
+    "model": "dolly1-security",
+    "display": "Dolly1 Security",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.45,
+    "max_input_usd_per_m": 0.45,
+    "min_output_usd_per_m": 1.5,
+    "max_output_usd_per_m": 1.5,
+    "image_generation": false
+  },
+  {
+    "model": "chroma",
+    "display": "Chroma",
+    "sellers": 3,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0.1,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0.45,
+    "image_generation": true
+  },
+  {
+    "model": "mercury-2-5",
+    "display": "Mercury 2.5",
+    "sellers": 3,
+    "min_input_usd_per_m": 0.075,
+    "max_input_usd_per_m": 0.179601,
+    "min_output_usd_per_m": 0.28125,
+    "max_output_usd_per_m": 0.673503,
+    "image_generation": false
+  },
+  {
+    "model": "recraft-v4",
+    "display": "Recraft V4",
+    "sellers": 3,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0.1,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0.45,
+    "image_generation": true
+  },
+  {
+    "model": "seedream-v4",
+    "display": "Seedream V4.5",
+    "sellers": 3,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0.1,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0.45,
+    "image_generation": true
+  },
+  {
+    "model": "openai-gpt-4o-mini-2024-07-18",
+    "display": "GPT-4o Mini",
+    "sellers": 11,
+    "min_input_usd_per_m": 0.017069,
+    "max_input_usd_per_m": 0.165,
+    "min_output_usd_per_m": 0.068175,
+    "max_output_usd_per_m": 0.66,
+    "image_generation": false
+  },
+  {
+    "model": "grok-imagine-image",
+    "display": "Grok Imagine",
+    "sellers": 3,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0.1,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0.45,
+    "image_generation": true
+  },
+  {
+    "model": "z-image-turbo",
+    "display": "Z-Image Turbo",
+    "sellers": 3,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0.1,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0.45,
+    "image_generation": true
+  },
+  {
+    "model": "z-ai-glm-5-turbo",
+    "display": "GLM 5 Turbo",
+    "sellers": 13,
+    "min_input_usd_per_m": 0.0285,
+    "max_input_usd_per_m": 0.890421,
+    "min_output_usd_per_m": 0.114,
+    "max_output_usd_per_m": 2.968069,
+    "image_generation": false
+  },
+  {
+    "model": "gpt-5",
+    "display": "GPT-5",
+    "sellers": 3,
+    "min_input_usd_per_m": 1,
+    "max_input_usd_per_m": 1.338,
+    "min_output_usd_per_m": 2,
+    "max_output_usd_per_m": 10.7,
+    "image_generation": false
+  },
+  {
+    "model": "minimax-h3-max-text-to-video",
+    "display": "MiniMax H3 Max",
+    "sellers": 3,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "qwen-3-8-27b",
+    "display": "Qwen 3.8 27B",
+    "sellers": 3,
+    "min_input_usd_per_m": 0.19,
+    "max_input_usd_per_m": 0.269027,
+    "min_output_usd_per_m": 1.6,
+    "max_output_usd_per_m": 2.425,
+    "image_generation": false
+  },
+  {
+    "model": "aion-labs-aion-3-0",
+    "display": "Aion 3.0",
+    "sellers": 5,
+    "min_input_usd_per_m": 1.83,
+    "max_input_usd_per_m": 3.035653,
+    "min_output_usd_per_m": 3.66,
+    "max_output_usd_per_m": 6.071306,
+    "image_generation": false
+  },
+  {
+    "model": "gemini-3",
+    "display": "Gemini 3",
+    "sellers": 1,
+    "min_input_usd_per_m": 1,
+    "max_input_usd_per_m": 1,
+    "min_output_usd_per_m": 2,
+    "max_output_usd_per_m": 2,
+    "image_generation": false
+  },
+  {
+    "model": "openai-gpt-4o-2024-11-20",
+    "display": "GPT-4o",
+    "sellers": 9,
+    "min_input_usd_per_m": 0.284113,
+    "max_input_usd_per_m": 2.68582,
+    "min_output_usd_per_m": 1.13625,
+    "max_output_usd_per_m": 10.743282,
+    "image_generation": false
+  },
+  {
+    "model": "codex-auto-review",
+    "display": "Codex Auto Review",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.008333,
+    "max_input_usd_per_m": 0.008333,
+    "min_output_usd_per_m": 0.1,
+    "max_output_usd_per_m": 0.1,
+    "image_generation": false
+  },
+  {
+    "model": "tool-door-staging",
+    "display": "Tool Door Staging",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.01,
+    "max_input_usd_per_m": 0.01,
+    "min_output_usd_per_m": 14.02,
+    "max_output_usd_per_m": 14.02,
+    "image_generation": false
+  },
+  {
+    "model": "claude-opus-4-6-fast",
+    "display": "Claude Opus 4.6 Fast",
+    "sellers": 4,
+    "min_input_usd_per_m": 7.272,
+    "max_input_usd_per_m": 28.8,
+    "min_output_usd_per_m": 36.36,
+    "max_output_usd_per_m": 144,
+    "image_generation": false
+  },
+  {
+    "model": "jev-latest",
+    "display": "Jev (System One)",
+    "sellers": 4,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0.05,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0,
+    "image_generation": false
+  },
+  {
+    "model": "zai-org-glm-4.7",
+    "display": "GLM 4.7",
+    "sellers": 16,
+    "min_input_usd_per_m": 0.01342,
+    "max_input_usd_per_m": 0.515,
+    "min_output_usd_per_m": 0.05368,
+    "max_output_usd_per_m": 2.344471,
+    "image_generation": false
+  },
+  {
+    "model": "qwen3-5-flash",
+    "display": "Qwen 3.5 Flash",
+    "sellers": 3,
+    "min_input_usd_per_m": 0.01421,
+    "max_input_usd_per_m": 0.108,
+    "min_output_usd_per_m": 0.101,
+    "max_output_usd_per_m": 0.432,
+    "image_generation": false
+  },
+  {
+    "model": "qwen3-5-35b-a3b",
+    "display": "Qwen 3.5 35B A3B",
+    "sellers": 12,
+    "min_input_usd_per_m": 0.028381,
+    "max_input_usd_per_m": 0.3,
+    "min_output_usd_per_m": 0.113625,
+    "max_output_usd_per_m": 1.4,
+    "image_generation": false
+  },
+  {
+    "model": "seedream-v5-lite",
+    "display": "Seedream V5 Lite",
+    "sellers": 3,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0.1,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0.45,
+    "image_generation": true
+  },
+  {
+    "model": "gemini-2-5-flash-lite",
+    "display": "Gemini 2.5 Flash Lite",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.12,
+    "max_input_usd_per_m": 0.12,
+    "min_output_usd_per_m": 0.48,
+    "max_output_usd_per_m": 0.48,
+    "image_generation": false
+  },
+  {
+    "model": "venice-sd35",
+    "display": "Venice SD35",
+    "sellers": 3,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0.1,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0.45,
+    "image_generation": true
+  },
+  {
+    "model": "gpt-5-5-economy",
+    "display": "GPT-5.5 Economy",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.0138,
+    "max_input_usd_per_m": 0.0138,
+    "min_output_usd_per_m": 0.0689,
+    "max_output_usd_per_m": 0.0689,
+    "image_generation": false
+  },
+  {
+    "model": "wan-2-7-text-to-image",
+    "display": "Wan 2.7",
+    "sellers": 3,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0.1,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0.45,
+    "image_generation": true
+  },
+  {
+    "model": "openai-gpt-oss-120b",
+    "display": "OpenAI GPT OSS 120B",
+    "sellers": 8,
+    "min_input_usd_per_m": 0.001708,
+    "max_input_usd_per_m": 0.053222,
+    "min_output_usd_per_m": 0.00732,
+    "max_output_usd_per_m": 0.228095,
+    "image_generation": false
+  },
+  {
+    "model": "grok-imagine-1-5-lite-image-to-video",
+    "display": "Grok Imagine 1.5 Lite",
+    "sellers": 3,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "qwen-3-8-2-4t-a95b",
+    "display": "Qwen 3.8 2.4T",
+    "sellers": 5,
+    "min_input_usd_per_m": 1.07,
+    "max_input_usd_per_m": 2.020966,
+    "min_output_usd_per_m": 3.24,
+    "max_output_usd_per_m": 6.062899,
+    "image_generation": false
+  },
+  {
+    "model": "claude-sonnet-4-5-20250929",
+    "display": "Claude Sonnet 4.5 20250929",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.6,
+    "max_input_usd_per_m": 0.6,
+    "min_output_usd_per_m": 3,
+    "max_output_usd_per_m": 3,
+    "image_generation": false
+  },
+  {
+    "model": "lustify-sdxl",
+    "display": "Lustify SDXL",
+    "sellers": 3,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0.1,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0.45,
+    "image_generation": true
+  },
+  {
+    "model": "gemini-3-1-flash-lite",
+    "display": "Gemini 3.1 Flash Lite",
+    "sellers": 5,
+    "min_input_usd_per_m": 0.202,
+    "max_input_usd_per_m": 0.275,
+    "min_output_usd_per_m": 1.212,
+    "max_output_usd_per_m": 1.65,
+    "image_generation": false
+  },
+  {
+    "model": "mistral-small-2603",
+    "display": "Mistral Small 4",
+    "sellers": 7,
+    "min_input_usd_per_m": 0.030375,
+    "max_input_usd_per_m": 0.141629,
+    "min_output_usd_per_m": 0.1215,
+    "max_output_usd_per_m": 0.566515,
+    "image_generation": false
+  },
+  {
+    "model": "grok-4-20-multi-agent",
+    "display": "Grok 4.20 Multi-Agent",
+    "sellers": 4,
+    "min_input_usd_per_m": 0.48422,
+    "max_input_usd_per_m": 1.5,
+    "min_output_usd_per_m": 0.96503,
+    "max_output_usd_per_m": 3,
+    "image_generation": false
+  },
+  {
+    "model": "mercury-2",
+    "display": "Mercury 2",
+    "sellers": 8,
+    "min_input_usd_per_m": 0.063125,
+    "max_input_usd_per_m": 0.205811,
+    "min_output_usd_per_m": 0.189375,
+    "max_output_usd_per_m": 0.617433,
+    "image_generation": false
+  },
+  {
+    "model": "lustify-v7",
+    "display": "Lustify v7",
+    "sellers": 3,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0.1,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0.45,
+    "image_generation": true
+  },
+  {
+    "model": "qwen3-coder-next-80b",
+    "display": "Qwen 3 Coder Next 80B",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.09,
+    "max_input_usd_per_m": 0.09,
+    "min_output_usd_per_m": 1.1,
+    "max_output_usd_per_m": 1.1,
+    "image_generation": false
+  },
+  {
+    "model": "grok-build-0-1",
+    "display": "Grok Build 0.1",
+    "sellers": 11,
+    "min_input_usd_per_m": 0.01,
+    "max_input_usd_per_m": 1.1,
+    "min_output_usd_per_m": 0.04,
+    "max_output_usd_per_m": 2.2,
+    "image_generation": false
+  },
+  {
+    "model": "e2ee-glm-4-7-flash-p",
+    "display": "E2EE GLM 4.7 Flash",
+    "sellers": 2,
+    "min_input_usd_per_m": 0.02626,
+    "max_input_usd_per_m": 0.065,
+    "min_output_usd_per_m": 0.1111,
+    "max_output_usd_per_m": 0.275,
+    "image_generation": false
+  },
+  {
+    "model": "e2ee-qwen-2-5-7b-p",
+    "display": "E2EE Qwen 2.5 7B",
+    "sellers": 5,
+    "min_input_usd_per_m": 0.011615,
+    "max_input_usd_per_m": 0.040964,
+    "min_output_usd_per_m": 0.030199,
+    "max_output_usd_per_m": 0.106507,
+    "image_generation": false
+  },
+  {
+    "model": "forge-code-agent",
+    "display": "Forge Code Agent",
+    "sellers": 1,
+    "min_input_usd_per_m": 9.59904,
+    "max_input_usd_per_m": 9.59904,
+    "min_output_usd_per_m": 9.59904,
+    "max_output_usd_per_m": 9.59904,
+    "image_generation": false
+  },
+  {
+    "model": "chainscout-guard-v1",
+    "display": "Chainscout Guard V1",
+    "sellers": 1,
+    "min_input_usd_per_m": 4,
+    "max_input_usd_per_m": 4,
+    "min_output_usd_per_m": 24,
+    "max_output_usd_per_m": 24,
+    "image_generation": false
+  },
+  {
+    "model": "grok-imagine-video-v1-5-lite-image-to-video",
+    "display": "Grok Imagine Video V1.5 Lite Image To Video",
+    "sellers": 1,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "qwen3-next-80b",
+    "display": "Qwen 3 Next 80b",
+    "sellers": 8,
+    "min_input_usd_per_m": 0.11935,
+    "max_input_usd_per_m": 0.35,
+    "min_output_usd_per_m": 0.6479,
+    "max_output_usd_per_m": 2.372222,
+    "image_generation": false
+  },
+  {
+    "model": "tencent-hy3",
+    "display": "Tencent Hy3",
+    "sellers": 1,
+    "min_input_usd_per_m": 2,
+    "max_input_usd_per_m": 2,
+    "min_output_usd_per_m": 2,
+    "max_output_usd_per_m": 2,
+    "image_generation": false
+  },
+  {
+    "model": "tradeos-vpin-stress",
+    "display": "Tradeos VPIN Stress",
+    "sellers": 1,
+    "min_input_usd_per_m": 8,
+    "max_input_usd_per_m": 8,
+    "min_output_usd_per_m": 80,
+    "max_output_usd_per_m": 80,
+    "image_generation": false
+  },
+  {
+    "model": "aion-labs-aion-2-0",
+    "display": "Aion 2.0",
+    "sellers": 6,
+    "min_input_usd_per_m": 0.202,
+    "max_input_usd_per_m": 0.96,
+    "min_output_usd_per_m": 0.404,
+    "max_output_usd_per_m": 1.92,
+    "image_generation": false
+  },
+  {
+    "model": "qwen3-30b-a3b",
+    "display": "Qwen3 30B A3B",
+    "sellers": 3,
+    "min_input_usd_per_m": 0.017271,
+    "max_input_usd_per_m": 0.0513,
+    "min_output_usd_per_m": 0.062721,
+    "max_output_usd_per_m": 0.1863,
+    "image_generation": false
+  },
+  {
+    "model": "openai-gpt-6-astra-pro",
+    "display": "GPT-6 Astra Pro",
+    "sellers": 3,
+    "min_input_usd_per_m": 6.25,
+    "max_input_usd_per_m": 10.25,
+    "min_output_usd_per_m": 31.25,
+    "max_output_usd_per_m": 51.25,
+    "image_generation": false
+  },
+  {
+    "model": "nvidia-nemotron-3-ultra-550b-a55b",
+    "display": "NVIDIA Nemotron 3 Ultra",
+    "sellers": 9,
+    "min_input_usd_per_m": 0.213125,
+    "max_input_usd_per_m": 0.72,
+    "min_output_usd_per_m": 1.065625,
+    "max_output_usd_per_m": 4.32,
+    "image_generation": false
+  },
+  {
+    "model": "inkling",
+    "display": "Inkling",
+    "sellers": 6,
+    "min_input_usd_per_m": 0.488,
+    "max_input_usd_per_m": 0.95,
+    "min_output_usd_per_m": 1.9764,
+    "max_output_usd_per_m": 3.89,
+    "image_generation": false
+  },
+  {
+    "model": "deepseek-reasoner",
+    "display": "DeepSeek Reasoner",
+    "sellers": 8,
+    "min_input_usd_per_m": 0.08,
+    "max_input_usd_per_m": 0.666824,
+    "min_output_usd_per_m": 0.2,
+    "max_output_usd_per_m": 3.431471,
+    "image_generation": false
+  },
+  {
+    "model": "e2ee-kimi-k3-p",
+    "display": "E2EE Kimi K3",
+    "sellers": 1,
+    "min_input_usd_per_m": 2.862672,
+    "max_input_usd_per_m": 2.862672,
+    "min_output_usd_per_m": 14.313361,
+    "max_output_usd_per_m": 14.313361,
+    "image_generation": false
+  },
+  {
+    "model": "qwen3-8-flash-next",
+    "display": "Qwen 3.8 Flash Next",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.15,
+    "max_input_usd_per_m": 0.15,
+    "min_output_usd_per_m": 0.5,
+    "max_output_usd_per_m": 0.5,
+    "image_generation": false
+  },
+  {
+    "model": "claude-sonnet-4",
+    "display": "Claude Sonnet 4",
+    "sellers": 2,
+    "min_input_usd_per_m": 0.555391,
+    "max_input_usd_per_m": 3.21,
+    "min_output_usd_per_m": 2.776951,
+    "max_output_usd_per_m": 16.05,
+    "image_generation": false
+  },
+  {
+    "model": "qwen3-5-9b",
+    "display": "Qwen 3.5 9B",
+    "sellers": 11,
+    "min_input_usd_per_m": 0.004545,
+    "max_input_usd_per_m": 0.1,
+    "min_output_usd_per_m": 0.013635,
+    "max_output_usd_per_m": 0.15,
+    "image_generation": false
+  },
+  {
+    "model": "qwen3-30b-a3b-instruct-2507-abliterated",
+    "display": "Qwen 3 30B A3B Instruct 2507 Abliterated",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.15,
+    "max_input_usd_per_m": 0.15,
+    "min_output_usd_per_m": 0.6,
+    "max_output_usd_per_m": 0.6,
+    "image_generation": false
+  },
+  {
+    "model": "aion-labs-aion-3-5-mini",
+    "display": "Aion 3.5 Mini",
+    "sellers": 3,
+    "min_input_usd_per_m": 0.4375,
+    "max_input_usd_per_m": 0.7,
+    "min_output_usd_per_m": 0.875,
+    "max_output_usd_per_m": 1.4,
+    "image_generation": false
+  },
+  {
+    "model": "minimax-m3-preview",
+    "display": "MiniMax M3 Preview",
+    "sellers": 6,
+    "min_input_usd_per_m": 0.09,
+    "max_input_usd_per_m": 0.1979,
+    "min_output_usd_per_m": 0.36,
+    "max_output_usd_per_m": 0.8216,
+    "image_generation": false
+  },
+  {
+    "model": "venice-uncensored",
+    "display": "Venice Uncensored",
+    "sellers": 3,
+    "min_input_usd_per_m": 0.0432,
+    "max_input_usd_per_m": 0.202,
+    "min_output_usd_per_m": 0.1944,
+    "max_output_usd_per_m": 0.909,
+    "image_generation": false
+  },
+  {
+    "model": "gemini-3-flash",
+    "display": "Gemini 3 Flash",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.517932,
+    "max_input_usd_per_m": 0.517932,
+    "min_output_usd_per_m": 2.789873,
+    "max_output_usd_per_m": 2.789873,
+    "image_generation": false
+  },
+  {
+    "model": "e2ee-glm-5-3-p",
+    "display": "E2EE GLM 5.3",
+    "sellers": 1,
+    "min_input_usd_per_m": 1.085278,
+    "max_input_usd_per_m": 1.085278,
+    "min_output_usd_per_m": 3.410875,
+    "max_output_usd_per_m": 3.410875,
+    "image_generation": false
+  },
+  {
+    "model": "venice-uncensored-role-play",
+    "display": "Venice Role Play Uncensored",
+    "sellers": 8,
+    "min_input_usd_per_m": 0.04545,
+    "max_input_usd_per_m": 0.2745,
+    "min_output_usd_per_m": 0.1818,
+    "max_output_usd_per_m": 1.098,
+    "image_generation": false
+  },
+  {
+    "model": "nvidia-nemotron-3-nano-30b-a3b",
+    "display": "NVIDIA Nemotron 3 Nano 30B",
+    "sellers": 9,
+    "min_input_usd_per_m": 0.006868,
+    "max_input_usd_per_m": 0.053044,
+    "min_output_usd_per_m": 0.02727,
+    "max_output_usd_per_m": 0.212176,
+    "image_generation": false
+  },
+  {
+    "model": "gpt-5-4-nano",
+    "display": "GPT-5.4 Nano",
+    "sellers": 5,
+    "min_input_usd_per_m": 0.0505,
+    "max_input_usd_per_m": 0.253125,
+    "min_output_usd_per_m": 0.302813,
+    "max_output_usd_per_m": 1.51875,
+    "image_generation": false
+  },
+  {
+    "model": "gpt-5-3-chat",
+    "display": "GPT-5.3 Chat",
+    "sellers": 2,
+    "min_input_usd_per_m": 1.62,
+    "max_input_usd_per_m": 1.8,
+    "min_output_usd_per_m": 13.05,
+    "max_output_usd_per_m": 14.5,
+    "image_generation": false
+  },
+  {
+    "model": "grok-4-20-multi-agent-beta",
+    "display": "Grok 4.20 Multi Agent Beta",
+    "sellers": 7,
+    "min_input_usd_per_m": 0.2025,
+    "max_input_usd_per_m": 0.6,
+    "min_output_usd_per_m": 0.405,
+    "max_output_usd_per_m": 1.515,
+    "image_generation": false
+  },
+  {
+    "model": "venice-uncensored-1-2",
+    "display": "Venice Uncensored 1.2",
+    "sellers": 8,
+    "min_input_usd_per_m": 0.0404,
+    "max_input_usd_per_m": 0.1098,
+    "min_output_usd_per_m": 0.1818,
+    "max_output_usd_per_m": 0.4941,
+    "image_generation": false
+  },
+  {
+    "model": "command-a",
+    "display": "Command A",
+    "sellers": 1,
+    "min_input_usd_per_m": 3,
+    "max_input_usd_per_m": 3,
+    "min_output_usd_per_m": 12,
+    "max_output_usd_per_m": 12,
+    "image_generation": false
+  },
+  {
+    "model": "gemma-4-uncensored",
+    "display": "Gemma 4 Uncensored",
+    "sellers": 9,
+    "min_input_usd_per_m": 0.032825,
+    "max_input_usd_per_m": 0.11375,
+    "min_output_usd_per_m": 0.101,
+    "max_output_usd_per_m": 0.35,
+    "image_generation": false
+  },
+  {
+    "model": "z-ai-glm-5v-turbo",
+    "display": "GLM 5V Turbo",
+    "sellers": 9,
+    "min_input_usd_per_m": 0.303,
+    "max_input_usd_per_m": 1.316387,
+    "min_output_usd_per_m": 1.01,
+    "max_output_usd_per_m": 4.387956,
+    "image_generation": false
+  },
+  {
+    "model": "seed-2-1-turbo",
+    "display": "Seed 2.1 Turbo",
+    "sellers": 5,
+    "min_input_usd_per_m": 0.305,
+    "max_input_usd_per_m": 0.473844,
+    "min_output_usd_per_m": 1.525,
+    "max_output_usd_per_m": 2.369222,
+    "image_generation": false
+  },
+  {
+    "model": "gpt-5-nano",
+    "display": "GPT-5 Nano",
+    "sellers": 2,
+    "min_input_usd_per_m": 0.012625,
+    "max_input_usd_per_m": 0.107692,
+    "min_output_usd_per_m": 0.101,
+    "max_output_usd_per_m": 0.861538,
+    "image_generation": false
+  },
+  {
+    "model": "google-gemma-3-27b-it",
+    "display": "Google Gemma 3 27B Instruct",
+    "sellers": 7,
+    "min_input_usd_per_m": 0.012726,
+    "max_input_usd_per_m": 0.101981,
+    "min_output_usd_per_m": 0.04545,
+    "max_output_usd_per_m": 0.176,
+    "image_generation": false
+  },
+  {
+    "model": "hermes-3-llama-3.1-405b",
+    "display": "Hermes 3 Llama 3.1 405b",
+    "sellers": 9,
+    "min_input_usd_per_m": 0.09999,
+    "max_input_usd_per_m": 1,
+    "min_output_usd_per_m": 0.2727,
+    "max_output_usd_per_m": 3,
+    "image_generation": false
+  },
+  {
+    "model": "qwen3-vl-235b-a22b",
+    "display": "Qwen3 VL 235B",
+    "sellers": 5,
+    "min_input_usd_per_m": 0.08525,
+    "max_input_usd_per_m": 0.48,
+    "min_output_usd_per_m": 0.5115,
+    "max_output_usd_per_m": 4.8,
+    "image_generation": false
+  },
+  {
+    "model": "olafangensan-glm-4.7-flash-heretic",
+    "display": "GLM 4.7 Flash Heretic",
+    "sellers": 9,
+    "min_input_usd_per_m": 0.02828,
+    "max_input_usd_per_m": 0.063,
+    "min_output_usd_per_m": 0.1616,
+    "max_output_usd_per_m": 0.36,
+    "image_generation": false
+  },
+  {
+    "model": "vector-economy",
+    "display": "Vector Economy",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.0138,
+    "max_input_usd_per_m": 0.0138,
+    "min_output_usd_per_m": 0.0689,
+    "max_output_usd_per_m": 0.0689,
+    "image_generation": false
+  },
+  {
+    "model": "e2ee-kimi-k2-6",
+    "display": "E2EE Kimi K2.6",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.62162,
+    "max_input_usd_per_m": 0.62162,
+    "min_output_usd_per_m": 3.6926,
+    "max_output_usd_per_m": 3.6926,
+    "image_generation": false
+  },
+  {
+    "model": "qwen3-vl-30b-a3b",
+    "display": "Qwen3 VL 30B A3B",
+    "sellers": 5,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0.24,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 2.88,
+    "image_generation": false
+  },
+  {
+    "model": "gpt-5-5-lite",
+    "display": "GPT-5.5 Lite",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.0138,
+    "max_input_usd_per_m": 0.0138,
+    "min_output_usd_per_m": 0.0689,
+    "max_output_usd_per_m": 0.0689,
+    "image_generation": false
+  },
+  {
+    "model": "gemini-2-5-pro",
+    "display": "Gemini 2.5 Pro",
+    "sellers": 7,
+    "min_input_usd_per_m": 0.315625,
+    "max_input_usd_per_m": 1.338,
+    "min_output_usd_per_m": 2.525,
+    "max_output_usd_per_m": 10.7,
+    "image_generation": false
+  },
+  {
+    "model": "qwen3-235b-a22b-2507",
+    "display": "Qwen 3 235B A22B 2507",
+    "sellers": 6,
+    "min_input_usd_per_m": 0.007686,
+    "max_input_usd_per_m": 0.075,
+    "min_output_usd_per_m": 0.04697,
+    "max_output_usd_per_m": 0.42,
+    "image_generation": false
+  },
+  {
+    "model": "e2ee-glm-5-1",
+    "display": "E2EE GLM 5.1",
+    "sellers": 2,
+    "min_input_usd_per_m": 0.2222,
+    "max_input_usd_per_m": 0.3751,
+    "min_output_usd_per_m": 0.8383,
+    "max_output_usd_per_m": 1.41515,
+    "image_generation": false
+  },
+  {
+    "model": "llama3-groq-tool-use-8b",
+    "display": "Llama 3 Groq Tool Use 8B",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.05,
+    "max_input_usd_per_m": 0.05,
+    "min_output_usd_per_m": 0.1,
+    "max_output_usd_per_m": 0.1,
+    "image_generation": false
+  },
+  {
+    "model": "gemma-3-27b",
+    "display": "Gemma 3 27B",
+    "sellers": 3,
+    "min_input_usd_per_m": 0.001584,
+    "max_input_usd_per_m": 0.102862,
+    "min_output_usd_per_m": 0.00396,
+    "max_output_usd_per_m": 0.54,
+    "image_generation": false
+  },
+  {
+    "model": "kimi-coding",
+    "display": "Kimi Coding",
+    "sellers": 1,
+    "min_input_usd_per_m": 1.1,
+    "max_input_usd_per_m": 1.1,
+    "min_output_usd_per_m": 4.65,
+    "max_output_usd_per_m": 4.65,
+    "image_generation": false
+  },
+  {
+    "model": "e2ee-qwen3-8-27b",
+    "display": "E2EE Qwen 3.8 27B",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.340553,
+    "max_input_usd_per_m": 0.340553,
+    "min_output_usd_per_m": 2.557772,
+    "max_output_usd_per_m": 2.557772,
+    "image_generation": false
+  },
+  {
+    "model": "o4-mini",
+    "display": "O4 Mini",
+    "sellers": 2,
+    "min_input_usd_per_m": 1.155,
+    "max_input_usd_per_m": 1.32,
+    "min_output_usd_per_m": 4.62,
+    "max_output_usd_per_m": 5.28,
+    "image_generation": false
+  },
+  {
+    "model": "gpt-5-1",
+    "display": "GPT-5.1",
+    "sellers": 1,
+    "min_input_usd_per_m": 1.5,
+    "max_input_usd_per_m": 1.5,
+    "min_output_usd_per_m": 12,
+    "max_output_usd_per_m": 12,
+    "image_generation": false
+  },
+  {
+    "model": "gpt-4-1-mini",
+    "display": "GPT-4.1 Mini",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.48,
+    "max_input_usd_per_m": 0.48,
+    "min_output_usd_per_m": 1.92,
+    "max_output_usd_per_m": 1.92,
+    "image_generation": false
+  },
+  {
+    "model": "mistral-small-3-2-24b",
+    "display": "Mistral Small 3.2 24B",
+    "sellers": 3,
+    "min_input_usd_per_m": 0.0075,
+    "max_input_usd_per_m": 0.09,
+    "min_output_usd_per_m": 0.02,
+    "max_output_usd_per_m": 0.24,
+    "image_generation": false
+  },
+  {
+    "model": "m27",
+    "display": "M27",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.3375,
+    "max_input_usd_per_m": 0.3375,
+    "min_output_usd_per_m": 1.35,
+    "max_output_usd_per_m": 1.35,
+    "image_generation": false
+  },
+  {
+    "model": "gpt-4-1",
+    "display": "GPT-4.1",
+    "sellers": 1,
+    "min_input_usd_per_m": 2.4,
+    "max_input_usd_per_m": 2.4,
+    "min_output_usd_per_m": 9.6,
+    "max_output_usd_per_m": 9.6,
+    "image_generation": false
+  },
+  {
+    "model": "m25",
+    "display": "M25",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.188,
+    "max_input_usd_per_m": 0.188,
+    "min_output_usd_per_m": 0.578,
+    "max_output_usd_per_m": 0.578,
+    "image_generation": false
+  },
+  {
+    "model": "deepseek-v3-1-terminus",
+    "display": "DeepSeek V3.1 Terminus",
+    "sellers": 2,
+    "min_input_usd_per_m": 0.147,
+    "max_input_usd_per_m": 0.324,
+    "min_output_usd_per_m": 0.553,
+    "max_output_usd_per_m": 1.2,
+    "image_generation": false
+  },
+  {
+    "model": "llama-3.2-3b",
+    "display": "Llama 3.2 3B",
+    "sellers": 6,
+    "min_input_usd_per_m": 0.05115,
+    "max_input_usd_per_m": 0.112856,
+    "min_output_usd_per_m": 0.2046,
+    "max_output_usd_per_m": 0.5,
+    "image_generation": false
+  },
+  {
+    "model": "deepseek-v3",
+    "display": "DeepSeek V3",
+    "sellers": 2,
+    "min_input_usd_per_m": 0.214,
+    "max_input_usd_per_m": 2.5,
+    "min_output_usd_per_m": 0.824,
+    "max_output_usd_per_m": 4,
+    "image_generation": false
+  },
+  {
+    "model": "nemotron-3-nano-omni-30b",
+    "display": "Nemotron 3 Nano Omni 30B",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.02695,
+    "max_input_usd_per_m": 0.02695,
+    "min_output_usd_per_m": 0.10758,
+    "max_output_usd_per_m": 0.10758,
+    "image_generation": false
+  },
+  {
+    "model": "e2ee-qwen3-vl-30b-a3b-p",
+    "display": "E2EE Qwen3 VL 30B A3B",
+    "sellers": 2,
+    "min_input_usd_per_m": 0.08525,
+    "max_input_usd_per_m": 0.178937,
+    "min_output_usd_per_m": 0.3069,
+    "max_output_usd_per_m": 0.644174,
+    "image_generation": false
+  },
+  {
+    "model": "gpt-5-1-codex",
+    "display": "GPT-5.1 Codex",
+    "sellers": 1,
+    "min_input_usd_per_m": 1.5,
+    "max_input_usd_per_m": 1.5,
+    "min_output_usd_per_m": 12,
+    "max_output_usd_per_m": 12,
+    "image_generation": false
+  },
+  {
+    "model": "step-3-5-flash-2603",
+    "display": "Step 3.5 Flash 2603",
+    "sellers": 1,
+    "min_input_usd_per_m": 10,
+    "max_input_usd_per_m": 10,
+    "min_output_usd_per_m": 10,
+    "max_output_usd_per_m": 10,
+    "image_generation": false
+  },
+  {
+    "model": "grok-4-20-beta",
+    "display": "Grok 4.20 Beta",
+    "sellers": 7,
+    "min_input_usd_per_m": 0.15,
+    "max_input_usd_per_m": 1.009899,
+    "min_output_usd_per_m": 0.3,
+    "max_output_usd_per_m": 2.012627,
+    "image_generation": false
+  },
+  {
+    "model": "e2ee-qwen3-6-35b-a3b",
+    "display": "E2EE Qwen 3.6 35B A3B FP8",
+    "sellers": 3,
+    "min_input_usd_per_m": 0.062062,
+    "max_input_usd_per_m": 0.11615,
+    "min_output_usd_per_m": 0.34845,
+    "max_output_usd_per_m": 0.77,
+    "image_generation": false
+  },
+  {
+    "model": "e2ee-glm-4-7-p",
+    "display": "E2EE GLM 4.7",
+    "sellers": 2,
+    "min_input_usd_per_m": 0.2222,
+    "max_input_usd_per_m": 0.3751,
+    "min_output_usd_per_m": 0.8383,
+    "max_output_usd_per_m": 1.41515,
+    "image_generation": false
+  },
+  {
+    "model": "mistral-medium-3-5",
+    "display": "Mistral Medium 3.5",
+    "sellers": 2,
+    "min_input_usd_per_m": 1.485,
+    "max_input_usd_per_m": 1.65,
+    "min_output_usd_per_m": 7.425,
+    "max_output_usd_per_m": 8.25,
+    "image_generation": false
+  },
+  {
+    "model": "e2ee-venice-uncensored-24b-p",
+    "display": "E2EE Venice Uncensored 1.1",
+    "sellers": 2,
+    "min_input_usd_per_m": 0.058075,
+    "max_input_usd_per_m": 0.08525,
+    "min_output_usd_per_m": 0.267145,
+    "max_output_usd_per_m": 0.39215,
+    "image_generation": false
+  },
+  {
+    "model": "qwen3-next-80b-thinking",
+    "display": "Qwen 3 Next 80B Thinking",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.18,
+    "max_input_usd_per_m": 0.18,
+    "min_output_usd_per_m": 1.44,
+    "max_output_usd_per_m": 1.44,
+    "image_generation": false
+  },
+  {
+    "model": "gemma-4-26b-uncensored-p",
+    "display": "Gemma 4 26B A4B Uncensored",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.189,
+    "max_input_usd_per_m": 0.189,
+    "min_output_usd_per_m": 0.594,
+    "max_output_usd_per_m": 0.594,
+    "image_generation": false
+  },
+  {
+    "model": "e2ee-gpt-oss-120b-p",
+    "display": "E2EE GPT OSS 120B",
+    "sellers": 5,
+    "min_input_usd_per_m": 0.011817,
+    "max_input_usd_per_m": 0.071891,
+    "min_output_usd_per_m": 0.059085,
+    "max_output_usd_per_m": 0.359453,
+    "image_generation": false
+  },
+  {
+    "model": "gpt-5-1-codex-max",
+    "display": "GPT-5.1 Codex Max",
+    "sellers": 1,
+    "min_input_usd_per_m": 1.5,
+    "max_input_usd_per_m": 1.5,
+    "min_output_usd_per_m": 12,
+    "max_output_usd_per_m": 12,
+    "image_generation": false
+  },
+  {
+    "model": "gpt-5-codex",
+    "display": "GPT-5 Codex",
+    "sellers": 1,
+    "min_input_usd_per_m": 1.2,
+    "max_input_usd_per_m": 1.2,
+    "min_output_usd_per_m": 9.6,
+    "max_output_usd_per_m": 9.6,
+    "image_generation": false
+  },
+  {
+    "model": "e2ee-glm-5-3-flash",
+    "display": "E2EE GLM 5.3 Flash",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.125181,
+    "max_input_usd_per_m": 0.125181,
+    "min_output_usd_per_m": 0.422485,
+    "max_output_usd_per_m": 0.422485,
+    "image_generation": false
+  },
+  {
+    "model": "trinity-large",
+    "display": "Trinity Large",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.24375,
+    "max_input_usd_per_m": 0.24375,
+    "min_output_usd_per_m": 0.8775,
+    "max_output_usd_per_m": 0.8775,
+    "image_generation": false
+  },
+  {
+    "model": "venice-uncensored-1-1",
+    "display": "Venice Uncensored 1.1",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.03,
+    "max_input_usd_per_m": 0.03,
+    "min_output_usd_per_m": 0.138,
+    "max_output_usd_per_m": 0.138,
+    "image_generation": false
+  },
+  {
+    "model": "qwen3-5-122b-a10b",
+    "display": "Qwen 3.5 122B A10B",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.25,
+    "max_input_usd_per_m": 0.25,
+    "min_output_usd_per_m": 2,
+    "max_output_usd_per_m": 2,
+    "image_generation": false
+  },
+  {
+    "model": "grok-4-1-fast",
+    "display": "Grok 4.1 Fast",
+    "sellers": 3,
+    "min_input_usd_per_m": 0.022725,
+    "max_input_usd_per_m": 0.234,
+    "min_output_usd_per_m": 0.056863,
+    "max_output_usd_per_m": 0.594,
+    "image_generation": false
+  },
+  {
+    "model": "qwen3-5-flash-02-23",
+    "display": "Qwen 3.5 Flash 02-23",
+    "sellers": 2,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0.07,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0.28,
+    "image_generation": false
+  },
+  {
+    "model": "kimi-k2",
+    "display": "Kimi K2",
+    "sellers": 4,
+    "min_input_usd_per_m": 0.113625,
+    "max_input_usd_per_m": 0.61,
+    "min_output_usd_per_m": 0.5555,
+    "max_output_usd_per_m": 2.461,
+    "image_generation": false
+  },
+  {
+    "model": "e2ee-deepseek-v4-flash",
+    "display": "E2EE DeepSeek V4 Flash",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.099673,
+    "max_input_usd_per_m": 0.099673,
+    "min_output_usd_per_m": 0.3134,
+    "max_output_usd_per_m": 0.3134,
+    "image_generation": false
+  },
+  {
+    "model": "claude-3-haiku",
+    "display": "Claude 3 Haiku",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.023142,
+    "max_input_usd_per_m": 0.023142,
+    "min_output_usd_per_m": 0.115706,
+    "max_output_usd_per_m": 0.115706,
+    "image_generation": false
+  },
+  {
+    "model": "deepseek-chat-v3-1",
+    "display": "DeepSeek Chat V3.1",
+    "sellers": 2,
+    "min_input_usd_per_m": 0.105,
+    "max_input_usd_per_m": 0.3,
+    "min_output_usd_per_m": 0.525,
+    "max_output_usd_per_m": 1.14,
+    "image_generation": false
+  },
+  {
+    "model": "cogito-v2-1-671b",
+    "display": "Cogito V2.1 671B",
+    "sellers": 1,
+    "min_input_usd_per_m": 1.5,
+    "max_input_usd_per_m": 1.5,
+    "min_output_usd_per_m": 1.5,
+    "max_output_usd_per_m": 1.5,
+    "image_generation": false
+  },
+  {
+    "model": "deepseek-v3-2-exp",
+    "display": "DeepSeek V3.2 Exp",
+    "sellers": 2,
+    "min_input_usd_per_m": 0.189,
+    "max_input_usd_per_m": 0.324,
+    "min_output_usd_per_m": 0.287,
+    "max_output_usd_per_m": 0.492,
+    "image_generation": false
+  },
+  {
+    "model": "qwen3-max-thinking",
+    "display": "Qwen 3 Max Thinking",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.936,
+    "max_input_usd_per_m": 0.936,
+    "min_output_usd_per_m": 4.68,
+    "max_output_usd_per_m": 4.68,
+    "image_generation": false
+  },
+  {
+    "model": "step-3-7-flash",
+    "display": "Step 3.7 Flash",
+    "sellers": 2,
+    "min_input_usd_per_m": 0.22,
+    "max_input_usd_per_m": 0.24,
+    "min_output_usd_per_m": 1.265,
+    "max_output_usd_per_m": 1.38,
+    "image_generation": false
+  },
+  {
+    "model": "glm-4-5-air",
+    "display": "GLM 4.5 Air",
+    "sellers": 6,
+    "min_input_usd_per_m": 0.019,
+    "max_input_usd_per_m": 0.163,
+    "min_output_usd_per_m": 0.076,
+    "max_output_usd_per_m": 0.984,
+    "image_generation": false
+  },
+  {
+    "model": "qwen3-30b-a3b-instruct-2507",
+    "display": "Qwen 3 30B A3B Instruct 2507",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.063,
+    "max_input_usd_per_m": 0.063,
+    "min_output_usd_per_m": 0.21,
+    "max_output_usd_per_m": 0.21,
+    "image_generation": false
+  },
+  {
+    "model": "arcee-trinity-large-thinking",
+    "display": "Trinity Large Thinking",
+    "sellers": 5,
+    "min_input_usd_per_m": 0.063125,
+    "max_input_usd_per_m": 0.3,
+    "min_output_usd_per_m": 0.22725,
+    "max_output_usd_per_m": 1,
+    "image_generation": false
+  },
+  {
+    "model": "llama-4-scout",
+    "display": "Llama 4 Scout",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.12,
+    "max_input_usd_per_m": 0.12,
+    "min_output_usd_per_m": 0.36,
+    "max_output_usd_per_m": 0.36,
+    "image_generation": false
+  },
+  {
+    "model": "minimax-m1",
+    "display": "MiniMax M1",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.5,
+    "max_input_usd_per_m": 0.5,
+    "min_output_usd_per_m": 2,
+    "max_output_usd_per_m": 2,
+    "image_generation": false
+  },
+  {
+    "model": "glm-4-5v",
+    "display": "GLM 4.5v",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.72,
+    "max_input_usd_per_m": 0.72,
+    "min_output_usd_per_m": 2.16,
+    "max_output_usd_per_m": 2.16,
+    "image_generation": false
+  },
+  {
+    "model": "qwen3-coder-480b",
+    "display": "Qwen 3 Coder 480B",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.36,
+    "max_input_usd_per_m": 0.36,
+    "min_output_usd_per_m": 1.2,
+    "max_output_usd_per_m": 1.2,
+    "image_generation": false
+  },
+  {
+    "model": "nvidia-nemotron-cascade-2-30b-a3b",
+    "display": "Nemotron Cascade 2 30B A3B",
+    "sellers": 4,
+    "min_input_usd_per_m": 0.02268,
+    "max_input_usd_per_m": 0.0924,
+    "min_output_usd_per_m": 0.1296,
+    "max_output_usd_per_m": 0.528,
+    "image_generation": false
+  },
+  {
+    "model": "glm-4-5",
+    "display": "GLM 4.5",
+    "sellers": 4,
+    "min_input_usd_per_m": 0.0475,
+    "max_input_usd_per_m": 0.1212,
+    "min_output_usd_per_m": 0.19,
+    "max_output_usd_per_m": 0.4444,
+    "image_generation": false
+  },
+  {
+    "model": "qwen3-coder-30b",
+    "display": "Qwen 3 Coder 30B",
+    "sellers": 2,
+    "min_input_usd_per_m": 0.005,
+    "max_input_usd_per_m": 0.03,
+    "min_output_usd_per_m": 0.015,
+    "max_output_usd_per_m": 0.12,
+    "image_generation": false
+  },
+  {
+    "model": "llama-4-maverick",
+    "display": "Llama 4 Maverick",
+    "sellers": 2,
+    "min_input_usd_per_m": 0.24,
+    "max_input_usd_per_m": 1,
+    "min_output_usd_per_m": 0.96,
+    "max_output_usd_per_m": 3,
+    "image_generation": false
+  },
+  {
+    "model": "kat-coder-pro",
+    "display": "Kat Coder Pro",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.36,
+    "max_input_usd_per_m": 0.36,
+    "min_output_usd_per_m": 1.44,
+    "max_output_usd_per_m": 1.44,
+    "image_generation": false
+  },
+  {
+    "model": "codestral-2508",
+    "display": "Codestral 2508",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.36,
+    "max_input_usd_per_m": 0.36,
+    "min_output_usd_per_m": 1.08,
+    "max_output_usd_per_m": 1.08,
+    "image_generation": false
+  },
+  {
+    "model": "nemotron-3-super",
+    "display": "Nemotron 3 Super",
+    "sellers": 2,
+    "min_input_usd_per_m": 0.01,
+    "max_input_usd_per_m": 0.088,
+    "min_output_usd_per_m": 0.1,
+    "max_output_usd_per_m": 0.495,
+    "image_generation": false
+  },
+  {
+    "model": "gpt-5-1-codex-mini",
+    "display": "GPT-5.1 Codex Mini",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.3,
+    "max_input_usd_per_m": 0.3,
+    "min_output_usd_per_m": 2.4,
+    "max_output_usd_per_m": 2.4,
+    "image_generation": false
+  },
+  {
+    "model": "gemma-3-12b",
+    "display": "Gemma 3 12B",
+    "sellers": 2,
+    "min_input_usd_per_m": 0.00099,
+    "max_input_usd_per_m": 0.06,
+    "min_output_usd_per_m": 0.00297,
+    "max_output_usd_per_m": 0.18,
+    "image_generation": false
+  },
+  {
+    "model": "qwen3-6-flash",
+    "display": "Qwen 3.6 Flash",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.225,
+    "max_input_usd_per_m": 0.225,
+    "min_output_usd_per_m": 1.35,
+    "max_output_usd_per_m": 1.35,
+    "image_generation": false
+  },
+  {
+    "model": "sonar-pro",
+    "display": "Sonar Pro",
+    "sellers": 1,
+    "min_input_usd_per_m": 3.6,
+    "max_input_usd_per_m": 3.6,
+    "min_output_usd_per_m": 18,
+    "max_output_usd_per_m": 18,
+    "image_generation": false
+  },
+  {
+    "model": "kimi-k2-0905",
+    "display": "Kimi K2 0905",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.72,
+    "max_input_usd_per_m": 0.72,
+    "min_output_usd_per_m": 3,
+    "max_output_usd_per_m": 3,
+    "image_generation": false
+  },
+  {
+    "model": "qwen3-5-plus",
+    "display": "Qwen 3.5 Plus",
+    "sellers": 2,
+    "min_input_usd_per_m": 0.05635,
+    "max_input_usd_per_m": 0.1313,
+    "min_output_usd_per_m": 0.33712,
+    "max_output_usd_per_m": 0.7878,
+    "image_generation": false
+  },
+  {
+    "model": "glm-4-6v",
+    "display": "GLM 4.6v",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.36,
+    "max_input_usd_per_m": 0.36,
+    "min_output_usd_per_m": 1.08,
+    "max_output_usd_per_m": 1.08,
+    "image_generation": false
+  },
+  {
+    "model": "qwen3-coder-flash",
+    "display": "Qwen 3 Coder Flash",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.234,
+    "max_input_usd_per_m": 0.234,
+    "min_output_usd_per_m": 1.17,
+    "max_output_usd_per_m": 1.17,
+    "image_generation": false
+  },
+  {
+    "model": "minimax-m2",
+    "display": "MiniMax M2",
+    "sellers": 3,
+    "min_input_usd_per_m": 0.002,
+    "max_input_usd_per_m": 0.306,
+    "min_output_usd_per_m": 0.02,
+    "max_output_usd_per_m": 1.224,
+    "image_generation": false
+  },
+  {
+    "model": "minimax-m2-1",
+    "display": "MiniMax M2.1",
+    "sellers": 7,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0.0915,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0.37875,
+    "image_generation": false
+  },
+  {
+    "model": "mistral-medium-3",
+    "display": "Mistral Medium 3",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.48,
+    "max_input_usd_per_m": 0.48,
+    "min_output_usd_per_m": 2.4,
+    "max_output_usd_per_m": 2.4,
+    "image_generation": false
+  },
+  {
+    "model": "mistral-medium-3-1",
+    "display": "Mistral Medium 3.1",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.48,
+    "max_input_usd_per_m": 0.48,
+    "min_output_usd_per_m": 2.4,
+    "max_output_usd_per_m": 2.4,
+    "image_generation": false
+  },
+  {
+    "model": "mistral-large-2512",
+    "display": "Mistral Large 2512",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.6,
+    "max_input_usd_per_m": 0.6,
+    "min_output_usd_per_m": 1.8,
+    "max_output_usd_per_m": 1.8,
+    "image_generation": false
+  },
+  {
+    "model": "qwen3-6-35b-uncensored-p",
+    "display": "Qwen3.6 35B A3B Uncensored",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.4704,
+    "max_input_usd_per_m": 0.4704,
+    "min_output_usd_per_m": 1.4112,
+    "max_output_usd_per_m": 1.4112,
+    "image_generation": false
+  },
+  {
+    "model": "gemma-4-26b",
+    "display": "Gemma 4 26B",
+    "sellers": 3,
+    "min_input_usd_per_m": 0.01512,
+    "max_input_usd_per_m": 0.35,
+    "min_output_usd_per_m": 0.0792,
+    "max_output_usd_per_m": 1,
+    "image_generation": false
+  },
+  {
+    "model": "seed-1-6-flash",
+    "display": "Seed 1.6 Flash",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.09,
+    "max_input_usd_per_m": 0.09,
+    "min_output_usd_per_m": 0.36,
+    "max_output_usd_per_m": 0.36,
+    "image_generation": false
+  },
+  {
+    "model": "o3",
+    "display": "O3",
+    "sellers": 2,
+    "min_input_usd_per_m": 0.37026,
+    "max_input_usd_per_m": 2.14,
+    "min_output_usd_per_m": 1.48104,
+    "max_output_usd_per_m": 8.56,
+    "image_generation": false
+  },
+  {
+    "model": "seed-1-6",
+    "display": "Seed 1.6",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.3,
+    "max_input_usd_per_m": 0.3,
+    "min_output_usd_per_m": 2.4,
+    "max_output_usd_per_m": 2.4,
+    "image_generation": false
+  },
+  {
+    "model": "nemotron-3-super-120b",
+    "display": "Nemotron 3 Super 120B",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.102,
+    "max_input_usd_per_m": 0.102,
+    "min_output_usd_per_m": 0.48,
+    "max_output_usd_per_m": 0.48,
+    "image_generation": false
+  },
+  {
+    "model": "qwen3-vl-235b-instruct",
+    "display": "Qwen 3 VL 235B Instruct",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.252,
+    "max_input_usd_per_m": 0.252,
+    "min_output_usd_per_m": 2.28,
+    "max_output_usd_per_m": 2.28,
+    "image_generation": false
+  },
+  {
+    "model": "qwen3-14b",
+    "display": "Qwen 3 14B",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.273,
+    "max_input_usd_per_m": 0.273,
+    "min_output_usd_per_m": 1.092,
+    "max_output_usd_per_m": 1.092,
+    "image_generation": false
+  },
+  {
+    "model": "vector-code",
+    "display": "Vector Code",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.018,
+    "max_input_usd_per_m": 0.018,
+    "min_output_usd_per_m": 0.09,
+    "max_output_usd_per_m": 0.09,
+    "image_generation": false
+  },
+  {
+    "model": "qwen3-max",
+    "display": "Qwen 3 Max",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.111078,
+    "max_input_usd_per_m": 0.111078,
+    "min_output_usd_per_m": 0.55539,
+    "max_output_usd_per_m": 0.55539,
+    "image_generation": false
+  },
+  {
+    "model": "qwen3-coder-next",
+    "display": "Qwen 3 Coder Next",
+    "sellers": 4,
+    "min_input_usd_per_m": 0.0931,
+    "max_input_usd_per_m": 0.35,
+    "min_output_usd_per_m": 0.532,
+    "max_output_usd_per_m": 1.108333,
+    "image_generation": false
+  },
+  {
+    "model": "qwen2-5-vl-72b",
+    "display": "Qwen 2.5 VL 72B",
+    "sellers": 2,
+    "min_input_usd_per_m": 0.5,
+    "max_input_usd_per_m": 0.96,
+    "min_output_usd_per_m": 0.95,
+    "max_output_usd_per_m": 1.2,
+    "image_generation": false
+  },
+  {
+    "model": "gpt-4-1-nano",
+    "display": "GPT-4.1 Nano",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.12,
+    "max_input_usd_per_m": 0.12,
+    "min_output_usd_per_m": 0.48,
+    "max_output_usd_per_m": 0.48,
+    "image_generation": false
+  },
+  {
+    "model": "mistral-saba",
+    "display": "Mistral Saba",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.24,
+    "max_input_usd_per_m": 0.24,
+    "min_output_usd_per_m": 0.72,
+    "max_output_usd_per_m": 0.72,
+    "image_generation": false
+  },
+  {
+    "model": "nemotron-3-super-120b-a12b",
+    "display": "Nemotron 3 Super 120B A12B",
+    "sellers": 2,
+    "min_input_usd_per_m": 0.003,
+    "max_input_usd_per_m": 0.095,
+    "min_output_usd_per_m": 0.013,
+    "max_output_usd_per_m": 0.473,
+    "image_generation": false
+  },
+  {
+    "model": "mistral-large-4",
+    "display": "Mistral Large 4",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.748,
+    "max_input_usd_per_m": 0.748,
+    "min_output_usd_per_m": 2.299,
+    "max_output_usd_per_m": 2.299,
+    "image_generation": false
+  },
+  {
+    "model": "tencent-hy3-preview",
+    "display": "Hy3 Preview",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.0756,
+    "max_input_usd_per_m": 0.0756,
+    "min_output_usd_per_m": 0.252,
+    "max_output_usd_per_m": 0.252,
+    "image_generation": false
+  },
+  {
+    "model": "qwen3-6-35b-p",
+    "display": "Qwen 3.6 35B P",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.15798,
+    "max_input_usd_per_m": 0.15798,
+    "min_output_usd_per_m": 0.47394,
+    "max_output_usd_per_m": 0.47394,
+    "image_generation": false
+  },
+  {
+    "model": "hermes-4-70b",
+    "display": "Hermes 4 70B",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.156,
+    "max_input_usd_per_m": 0.156,
+    "min_output_usd_per_m": 0.48,
+    "max_output_usd_per_m": 0.48,
+    "image_generation": false
+  },
+  {
+    "model": "command-a-plus",
+    "display": "Command A Plus",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.24,
+    "max_input_usd_per_m": 0.24,
+    "min_output_usd_per_m": 1.2,
+    "max_output_usd_per_m": 1.2,
+    "image_generation": false
+  },
+  {
+    "model": "llama-3-1-70b",
+    "display": "Llama 3.1 70B",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.48,
+    "max_input_usd_per_m": 0.48,
+    "min_output_usd_per_m": 0.48,
+    "max_output_usd_per_m": 0.48,
+    "image_generation": false
+  },
+  {
+    "model": "mistral-small-3-1-24b",
+    "display": "Mistral Small 3.1 24B",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.4212,
+    "max_input_usd_per_m": 0.4212,
+    "min_output_usd_per_m": 0.666,
+    "max_output_usd_per_m": 0.666,
+    "image_generation": false
+  },
+  {
+    "model": "web3-score-svc",
+    "display": "WEB3 Score Svc",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.6,
+    "max_input_usd_per_m": 0.6,
+    "min_output_usd_per_m": 3.8,
+    "max_output_usd_per_m": 3.8,
+    "image_generation": false
+  },
+  {
+    "model": "nova-pro",
+    "display": "Nova Pro",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.96,
+    "max_input_usd_per_m": 0.96,
+    "min_output_usd_per_m": 3.84,
+    "max_output_usd_per_m": 3.84,
+    "image_generation": false
+  },
+  {
+    "model": "mistral-31-24b",
+    "display": "Mistral 31 24B",
+    "sellers": 2,
+    "min_input_usd_per_m": 0.4212,
+    "max_input_usd_per_m": 0.5,
+    "min_output_usd_per_m": 0.666,
+    "max_output_usd_per_m": 2,
+    "image_generation": false
+  },
+  {
+    "model": "qwen3-8-omni-flash",
+    "display": "Qwen 3.8 Omni Flash",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.120039,
+    "max_input_usd_per_m": 0.120039,
+    "min_output_usd_per_m": 0.376116,
+    "max_output_usd_per_m": 0.376116,
+    "image_generation": false
+  },
+  {
+    "model": "qwen3-vl-30b-instruct",
+    "display": "Qwen 3 VL 30B Instruct",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.156,
+    "max_input_usd_per_m": 0.156,
+    "min_output_usd_per_m": 0.624,
+    "max_output_usd_per_m": 0.624,
+    "image_generation": false
+  },
+  {
+    "model": "gemma4",
+    "display": "Gemma 4",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.02,
+    "max_input_usd_per_m": 0.02,
+    "min_output_usd_per_m": 0.06,
+    "max_output_usd_per_m": 0.06,
+    "image_generation": false
+  },
+  {
+    "model": "sonar",
+    "display": "Sonar",
+    "sellers": 1,
+    "min_input_usd_per_m": 1.2,
+    "max_input_usd_per_m": 1.2,
+    "min_output_usd_per_m": 1.2,
+    "max_output_usd_per_m": 1.2,
+    "image_generation": false
+  },
+  {
+    "model": "mistral-nemo",
+    "display": "Mistral Nemo",
+    "sellers": 4,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0.028,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0.10758,
+    "image_generation": false
+  },
+  {
+    "model": "hermes-4-405b",
+    "display": "Hermes 4 405B",
+    "sellers": 1,
+    "min_input_usd_per_m": 1.2,
+    "max_input_usd_per_m": 1.2,
+    "min_output_usd_per_m": 3.6,
+    "max_output_usd_per_m": 3.6,
+    "image_generation": false
+  },
+  {
+    "model": "gpt-5-5-code-lite",
+    "display": "GPT-5.5 Code Lite",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.0138,
+    "max_input_usd_per_m": 0.0138,
+    "min_output_usd_per_m": 0.0689,
+    "max_output_usd_per_m": 0.0689,
+    "image_generation": false
+  },
+  {
+    "model": "seed-2-mini",
+    "display": "Seed 2 Mini",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.12,
+    "max_input_usd_per_m": 0.12,
+    "min_output_usd_per_m": 0.48,
+    "max_output_usd_per_m": 0.48,
+    "image_generation": false
+  },
+  {
+    "model": "llama-3-2-3b-instruct",
+    "display": "Llama 3.2 3B Instruct",
+    "sellers": 5,
+    "min_input_usd_per_m": 0.013635,
+    "max_input_usd_per_m": 0.04,
+    "min_output_usd_per_m": 0.05454,
+    "max_output_usd_per_m": 0.21,
+    "image_generation": false
+  },
+  {
+    "model": "ling-2-6-flash",
+    "display": "Ling 2.6 Flash",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.012,
+    "max_input_usd_per_m": 0.012,
+    "min_output_usd_per_m": 0.036,
+    "max_output_usd_per_m": 0.036,
+    "image_generation": false
+  },
+  {
+    "model": "glm-5-3-flashx",
+    "display": "GLM 5.3 Flashx",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.3515,
+    "max_input_usd_per_m": 0.3515,
+    "min_output_usd_per_m": 1.1875,
+    "max_output_usd_per_m": 1.1875,
+    "image_generation": false
+  },
+  {
+    "model": "qwen3-next-80b-a3b-instruct",
+    "display": "Qwen 3 Next 80B A3B Instruct",
+    "sellers": 4,
+    "min_input_usd_per_m": 0.00915,
+    "max_input_usd_per_m": 0.063,
+    "min_output_usd_per_m": 0.0915,
+    "max_output_usd_per_m": 0.77,
+    "image_generation": false
+  },
+  {
+    "model": "phi-4",
+    "display": "Phi 4",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.084,
+    "max_input_usd_per_m": 0.084,
+    "min_output_usd_per_m": 0.168,
+    "max_output_usd_per_m": 0.168,
+    "image_generation": false
+  },
+  {
+    "model": "solar-pro-3",
+    "display": "Solar Pro 3",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.18,
+    "max_input_usd_per_m": 0.18,
+    "min_output_usd_per_m": 0.72,
+    "max_output_usd_per_m": 0.72,
+    "image_generation": false
+  },
+  {
+    "model": "step-3-5-flash",
+    "display": "Step 3.5 Flash",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.009257,
+    "max_input_usd_per_m": 0.009257,
+    "min_output_usd_per_m": 0.027769,
+    "max_output_usd_per_m": 0.027769,
+    "image_generation": false
+  },
+  {
+    "model": "qwen3-fast",
+    "display": "Qwen 3 Fast",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.001,
+    "max_input_usd_per_m": 0.001,
+    "min_output_usd_per_m": 0.001,
+    "max_output_usd_per_m": 0.001,
+    "image_generation": false
+  },
+  {
+    "model": "kimi-k2-thinking",
+    "display": "Kimi K2 Thinking",
+    "sellers": 5,
+    "min_input_usd_per_m": 0.01188,
+    "max_input_usd_per_m": 0.21384,
+    "min_output_usd_per_m": 0.0495,
+    "max_output_usd_per_m": 0.891,
+    "image_generation": false
+  },
+  {
+    "model": "qwen3-vl-30b-a3b-thinking",
+    "display": "Qwen 3 VL 30B A3B Thinking",
+    "sellers": 5,
+    "min_input_usd_per_m": 0.022725,
+    "max_input_usd_per_m": 0.161838,
+    "min_output_usd_per_m": 0.08181,
+    "max_output_usd_per_m": 1.262336,
+    "image_generation": false
+  },
+  {
+    "model": "e2ee-gemma-4-26b-a4b-uncensored-p",
+    "display": "E2EE Gemma 4 26B A4B Uncensored",
+    "sellers": 4,
+    "min_input_usd_per_m": 0.06479,
+    "max_input_usd_per_m": 0.1159,
+    "min_output_usd_per_m": 0.25553,
+    "max_output_usd_per_m": 0.5368,
+    "image_generation": false
+  },
+  {
+    "model": "minimax-h3-text-to-video",
+    "display": "MiniMax H3",
+    "sellers": 4,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "qwen3-vl-235b-a22b-thinking",
+    "display": "Qwen 3 VL 235B A22B Thinking",
+    "sellers": 4,
+    "min_input_usd_per_m": 0.022725,
+    "max_input_usd_per_m": 0.10479,
+    "min_output_usd_per_m": 0.13635,
+    "max_output_usd_per_m": 0.9481,
+    "image_generation": false
+  },
+  {
+    "model": "flux-3-image-to-video",
+    "display": "Flux 3",
+    "sellers": 3,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "flux-3-text-to-video",
+    "display": "Flux 3",
+    "sellers": 3,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "gemini-omni-flash-1-1-image-to-video",
+    "display": "Gemini Omni Flash 1.1",
+    "sellers": 3,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "glm-5-1-non-thinking",
+    "display": "GLM 5.1 Non Thinking",
+    "sellers": 3,
+    "min_input_usd_per_m": 0.37875,
+    "max_input_usd_per_m": 3.08,
+    "min_output_usd_per_m": 1.2625,
+    "max_output_usd_per_m": 9.68,
+    "image_generation": false
+  },
+  {
+    "model": "imagineart-1.5-pro",
+    "display": "ImagineArt 1.5 Pro",
+    "sellers": 3,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0.1,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0.45,
+    "image_generation": true
+  },
+  {
+    "model": "minimax-h3-image-to-video",
+    "display": "MiniMax H3",
+    "sellers": 3,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "deepseek-chat-v3-0324",
+    "display": "DeepSeek Chat V3 0324",
+    "sellers": 2,
+    "min_input_usd_per_m": 0.14,
+    "max_input_usd_per_m": 0.269,
+    "min_output_usd_per_m": 0.539,
+    "max_output_usd_per_m": 1.087,
+    "image_generation": false
+  },
+  {
+    "model": "deepseek-v4-flash-web",
+    "display": "DeepSeek V4 Flash Web",
+    "sellers": 2,
+    "min_input_usd_per_m": 0.042925,
+    "max_input_usd_per_m": 0.15,
+    "min_output_usd_per_m": 0.088375,
+    "max_output_usd_per_m": 0.3,
+    "image_generation": false
+  },
+  {
+    "model": "deepseek-v4-pro-web",
+    "display": "DeepSeek V4 Pro Web",
+    "sellers": 2,
+    "min_input_usd_per_m": 1.6,
+    "max_input_usd_per_m": 1.7473,
+    "min_output_usd_per_m": 3.5,
+    "max_output_usd_per_m": 3.83396,
+    "image_generation": false
+  },
+  {
+    "model": "e2ee-gemma-3-27b-p",
+    "display": "E2EE Gemma 3 27B",
+    "sellers": 2,
+    "min_input_usd_per_m": 0.02828,
+    "max_input_usd_per_m": 0.04774,
+    "min_output_usd_per_m": 0.101,
+    "max_output_usd_per_m": 0.1705,
+    "image_generation": false
+  },
+  {
+    "model": "e2ee-gemma-4-31b",
+    "display": "E2EE Gemma 4 31B Instruct",
+    "sellers": 2,
+    "min_input_usd_per_m": 0.047399,
+    "max_input_usd_per_m": 0.058075,
+    "min_output_usd_per_m": 0.14663,
+    "max_output_usd_per_m": 0.174225,
+    "image_generation": false
+  },
+  {
+    "model": "e2ee-gpt-oss-20b-p",
+    "display": "E2EE GPT OSS 20B",
+    "sellers": 2,
+    "min_input_usd_per_m": 0.004545,
+    "max_input_usd_per_m": 0.01705,
+    "min_output_usd_per_m": 0.017271,
+    "max_output_usd_per_m": 0.06479,
+    "image_generation": false
+  },
+  {
+    "model": "e2ee-qwen3-6-35b-a3b-uncensored-p",
+    "display": "E2EE Qwen3.6 35B A3B Uncensored",
+    "sellers": 2,
+    "min_input_usd_per_m": 0.12958,
+    "max_input_usd_per_m": 0.18584,
+    "min_output_usd_per_m": 0.55752,
+    "max_output_usd_per_m": 0.64108,
+    "image_generation": false
+  },
+  {
+    "model": "glm-4-7-flash-web",
+    "display": "GLM 4.7 Flash Web",
+    "sellers": 2,
+    "min_input_usd_per_m": 0.032825,
+    "max_input_usd_per_m": 0.1,
+    "min_output_usd_per_m": 0.138875,
+    "max_output_usd_per_m": 0.5,
+    "image_generation": false
+  },
+  {
+    "model": "glm-4-7-thinking",
+    "display": "GLM 4.7 Thinking",
+    "sellers": 2,
+    "min_input_usd_per_m": 0.113625,
+    "max_input_usd_per_m": 0.45,
+    "min_output_usd_per_m": 0.505,
+    "max_output_usd_per_m": 2,
+    "image_generation": false
+  },
+  {
+    "model": "glm-4-7-thinking-web",
+    "display": "GLM 4.7 Thinking Web",
+    "sellers": 2,
+    "min_input_usd_per_m": 0.113625,
+    "max_input_usd_per_m": 0.45,
+    "min_output_usd_per_m": 0.505,
+    "max_output_usd_per_m": 2,
+    "image_generation": false
+  },
+  {
+    "model": "glm-4-7-web",
+    "display": "GLM 4.7 Web",
+    "sellers": 2,
+    "min_input_usd_per_m": 0.5,
+    "max_input_usd_per_m": 1.111,
+    "min_output_usd_per_m": 2.25,
+    "max_output_usd_per_m": 4.1915,
+    "image_generation": false
+  },
+  {
+    "model": "glm-5-1-non-thinking-web",
+    "display": "GLM 5.1 Non Thinking Web",
+    "sellers": 2,
+    "min_input_usd_per_m": 1.5,
+    "max_input_usd_per_m": 1.515,
+    "min_output_usd_per_m": 5,
+    "max_output_usd_per_m": 5.05,
+    "image_generation": false
+  },
+  {
+    "model": "glm-5-1-web",
+    "display": "GLM 5.1 Web",
+    "sellers": 2,
+    "min_input_usd_per_m": 1.5,
+    "max_input_usd_per_m": 1.7675,
+    "min_output_usd_per_m": 5,
+    "max_output_usd_per_m": 5.555,
+    "image_generation": false
+  },
+  {
+    "model": "glm-5-3-prime",
+    "display": "GLM 5.3 Prime",
+    "sellers": 2,
+    "min_input_usd_per_m": 2.926,
+    "max_input_usd_per_m": 3.08,
+    "min_output_usd_per_m": 9.196,
+    "max_output_usd_per_m": 9.68,
+    "image_generation": false
+  },
+  {
+    "model": "glm-5-web",
+    "display": "GLM 5 Web",
+    "sellers": 2,
+    "min_input_usd_per_m": 0.27775,
+    "max_input_usd_per_m": 1,
+    "min_output_usd_per_m": 1.047875,
+    "max_output_usd_per_m": 3.2,
+    "image_generation": false
+  },
+  {
+    "model": "gpt-6-1-sol-pro",
+    "display": "GPT-6.1 Sol Pro",
+    "sellers": 2,
+    "min_input_usd_per_m": 2.09,
+    "max_input_usd_per_m": 2.2,
+    "min_output_usd_per_m": 10.45,
+    "max_output_usd_per_m": 11,
+    "image_generation": false
+  },
+  {
+    "model": "grok-code-fast-1",
+    "display": "Grok Code Fast 1",
+    "sellers": 2,
+    "min_input_usd_per_m": 0.101,
+    "max_input_usd_per_m": 0.108,
+    "min_output_usd_per_m": 0.75548,
+    "max_output_usd_per_m": 0.80784,
+    "image_generation": false
+  },
+  {
+    "model": "hermes-3-llama-3-1-405b-web",
+    "display": "Hermes 3 Llama 3.1 405B Web",
+    "sellers": 2,
+    "min_input_usd_per_m": 1,
+    "max_input_usd_per_m": 1.111,
+    "min_output_usd_per_m": 3,
+    "max_output_usd_per_m": 3.03,
+    "image_generation": false
+  },
+  {
+    "model": "ideogram-v4-5",
+    "display": "Ideogram V4.5",
+    "sellers": 2,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0,
+    "image_generation": true
+  },
+  {
+    "model": "kimi-k2-5-web",
+    "display": "Kimi K2.5 Web",
+    "sellers": 2,
+    "min_input_usd_per_m": 0.5656,
+    "max_input_usd_per_m": 0.6,
+    "min_output_usd_per_m": 3,
+    "max_output_usd_per_m": 3.535,
+    "image_generation": false
+  },
+  {
+    "model": "kimi-k2-6-web",
+    "display": "Kimi K2.6 Web",
+    "sellers": 2,
+    "min_input_usd_per_m": 0.5,
+    "max_input_usd_per_m": 0.8585,
+    "min_output_usd_per_m": 3.25,
+    "max_output_usd_per_m": 4.70155,
+    "image_generation": false
+  },
+  {
+    "model": "kling-o3-pro-image-to-video",
+    "display": "Kling O3 Pro",
+    "sellers": 2,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "kling-o3-pro-text-to-video",
+    "display": "Kling O3 Pro",
+    "sellers": 2,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "kling-v3-pro-image-to-video",
+    "display": "Kling V3 Pro",
+    "sellers": 2,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "kling-v3-standard-image-to-video",
+    "display": "Kling V3 Standard",
+    "sellers": 2,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "kling-v3-standard-text-to-video",
+    "display": "Kling V3 Standard",
+    "sellers": 2,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "llama-3-1-8b",
+    "display": "Llama 3.1 8B",
+    "sellers": 2,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0.001,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0.001,
+    "image_generation": false
+  },
+  {
+    "model": "ltx-2-5-pro-text-to-video",
+    "display": "LTX Video 2.5 Pro",
+    "sellers": 2,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "mimo-v2-6-pro-ultraspeed",
+    "display": "MiMo V2.6 Pro Ultraspeed",
+    "sellers": 2,
+    "min_input_usd_per_m": 1.995,
+    "max_input_usd_per_m": 3.48,
+    "min_output_usd_per_m": 4.18,
+    "max_output_usd_per_m": 6.96,
+    "image_generation": false
+  },
+  {
+    "model": "mimo-v2-flash",
+    "display": "MiMo V2 Flash",
+    "sellers": 2,
+    "min_input_usd_per_m": 0.063,
+    "max_input_usd_per_m": 0.105,
+    "min_output_usd_per_m": 0.203,
+    "max_output_usd_per_m": 0.315,
+    "image_generation": false
+  },
+  {
+    "model": "minimax-m2-5-web",
+    "display": "MiniMax M2.5 Web",
+    "sellers": 2,
+    "min_input_usd_per_m": 0.3,
+    "max_input_usd_per_m": 0.3434,
+    "min_output_usd_per_m": 1.2,
+    "max_output_usd_per_m": 1.2019,
+    "image_generation": false
+  },
+  {
+    "model": "minimax-m2-7-web",
+    "display": "MiniMax M2.7 Web",
+    "sellers": 2,
+    "min_input_usd_per_m": 0.35,
+    "max_input_usd_per_m": 0.37875,
+    "min_output_usd_per_m": 1.5,
+    "max_output_usd_per_m": 1.515,
+    "image_generation": false
+  },
+  {
+    "model": "nano-banana-2-1",
+    "display": "Nano Banana 2.1",
+    "sellers": 2,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0,
+    "image_generation": true
+  },
+  {
+    "model": "qwen-coder",
+    "display": "Qwen Coder",
+    "sellers": 2,
+    "min_input_usd_per_m": 0.005,
+    "max_input_usd_per_m": 0.48,
+    "min_output_usd_per_m": 0.015,
+    "max_output_usd_per_m": 1.7,
+    "image_generation": false
+  },
+  {
+    "model": "runway-gen4-5",
+    "display": "Runway Gen-4.5",
+    "sellers": 2,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "runway-gen4-5-text",
+    "display": "Runway Gen-4.5",
+    "sellers": 2,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "seedance-2-0-text-to-video-basic",
+    "display": "Seedance 2.0",
+    "sellers": 2,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "seedance-2-5-text-to-video-basic",
+    "display": "Seedance 2.5",
+    "sellers": 2,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "veo3.1-fast-text-to-video",
+    "display": "Veo 3.1 Fast",
+    "sellers": 2,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "veo3.1-full-text-to-video",
+    "display": "Veo 3.1 Full Quality",
+    "sellers": 2,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "wan-3-0-prime-image-to-video",
+    "display": "Wan 3.0 Prime",
+    "sellers": 2,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "wan-3-0-prime-pro-image-to-video",
+    "display": "Wan 3.0 Prime Pro",
+    "sellers": 2,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "wan-3-0-prime-pro-text-to-video",
+    "display": "Wan 3.0 Prime Pro",
+    "sellers": 2,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "wan-3-0-prime-text-to-video",
+    "display": "Wan 3.0 Prime",
+    "sellers": 2,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "abab6-5s",
+    "display": "Abab6.5s",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.2,
+    "max_input_usd_per_m": 0.2,
+    "min_output_usd_per_m": 0.8,
+    "max_output_usd_per_m": 0.8,
+    "image_generation": false
+  },
+  {
+    "model": "auto",
+    "display": "Auto",
+    "sellers": 1,
+    "min_input_usd_per_m": 4,
+    "max_input_usd_per_m": 4,
+    "min_output_usd_per_m": 4,
+    "max_output_usd_per_m": 4,
+    "image_generation": false
+  },
+  {
+    "model": "claude-haiku-5-5-1m",
+    "display": "Claude Haiku 5.5 1M",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.309375,
+    "max_input_usd_per_m": 0.309375,
+    "min_output_usd_per_m": 1.546875,
+    "max_output_usd_per_m": 1.546875,
+    "image_generation": false
+  },
+  {
+    "model": "claude-opus-4-5-20251101",
+    "display": "Claude Opus 4.5 20251101",
+    "sellers": 1,
+    "min_input_usd_per_m": 1,
+    "max_input_usd_per_m": 1,
+    "min_output_usd_per_m": 5,
+    "max_output_usd_per_m": 5,
+    "image_generation": false
+  },
+  {
+    "model": "claude-sonnet-4-20250514",
+    "display": "Claude Sonnet 4 20250514",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.6,
+    "max_input_usd_per_m": 0.6,
+    "min_output_usd_per_m": 3,
+    "max_output_usd_per_m": 3,
+    "image_generation": false
+  },
+  {
+    "model": "code-assist",
+    "display": "Code Assist",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.03,
+    "max_input_usd_per_m": 0.03,
+    "min_output_usd_per_m": 0.12,
+    "max_output_usd_per_m": 0.12,
+    "image_generation": false
+  },
+  {
+    "model": "deepseek-chat-free",
+    "display": "DeepSeek Chat Free",
+    "sellers": 1,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0,
+    "image_generation": false
+  },
+  {
+    "model": "deepseek-r1-8b",
+    "display": "DeepSeek R1 8B",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.001,
+    "max_input_usd_per_m": 0.001,
+    "min_output_usd_per_m": 0.001,
+    "max_output_usd_per_m": 0.001,
+    "image_generation": false
+  },
+  {
+    "model": "deepseek-r1-latest",
+    "display": "DeepSeek R1 Latest",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.749,
+    "max_input_usd_per_m": 0.749,
+    "min_output_usd_per_m": 2.675,
+    "max_output_usd_per_m": 2.675,
+    "image_generation": false
+  },
+  {
+    "model": "deepseek-v3-2-web",
+    "display": "DeepSeek V3.2 Web",
+    "sellers": 1,
+    "min_input_usd_per_m": 1.5,
+    "max_input_usd_per_m": 1.5,
+    "min_output_usd_per_m": 3.2,
+    "max_output_usd_per_m": 3.2,
+    "image_generation": false
+  },
+  {
+    "model": "devstral-2-123b",
+    "display": "Devstral 2 123B",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.016,
+    "max_input_usd_per_m": 0.016,
+    "min_output_usd_per_m": 0.079996,
+    "max_output_usd_per_m": 0.079996,
+    "image_generation": false
+  },
+  {
+    "model": "devstral-2512",
+    "display": "Devstral 2512",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.384,
+    "max_input_usd_per_m": 0.384,
+    "min_output_usd_per_m": 1.92,
+    "max_output_usd_per_m": 1.92,
+    "image_generation": false
+  },
+  {
+    "model": "e2ee-glm-5",
+    "display": "E2EE GLM 5",
+    "sellers": 1,
+    "min_input_usd_per_m": 1.111,
+    "max_input_usd_per_m": 1.111,
+    "min_output_usd_per_m": 4.1915,
+    "max_output_usd_per_m": 4.1915,
+    "image_generation": false
+  },
+  {
+    "model": "e2ee-qwen3-30b-a3b-p",
+    "display": "E2EE Qwen3 30B A3B",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.06479,
+    "max_input_usd_per_m": 0.06479,
+    "min_output_usd_per_m": 0.23529,
+    "max_output_usd_per_m": 0.23529,
+    "image_generation": false
+  },
+  {
+    "model": "e2ee-qwen3-5-122b-a10b",
+    "display": "E2EE Qwen 3.5 122B A10B",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.04545,
+    "max_input_usd_per_m": 0.04545,
+    "min_output_usd_per_m": 0.3636,
+    "max_output_usd_per_m": 0.3636,
+    "image_generation": false
+  },
+  {
+    "model": "forge-code-agent-lite",
+    "display": "Forge Code Agent Lite",
+    "sellers": 1,
+    "min_input_usd_per_m": 9.59904,
+    "max_input_usd_per_m": 9.59904,
+    "min_output_usd_per_m": 9.59904,
+    "max_output_usd_per_m": 9.59904,
+    "image_generation": false
+  },
+  {
+    "model": "fugu-ultra-v2",
+    "display": "Fugu Ultra V2",
+    "sellers": 1,
+    "min_input_usd_per_m": 4,
+    "max_input_usd_per_m": 4,
+    "min_output_usd_per_m": 24,
+    "max_output_usd_per_m": 24,
+    "image_generation": false
+  },
+  {
+    "model": "gemini-3-1-flash-lite-preview",
+    "display": "Gemini 3.1 Flash Lite Preview",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.1225,
+    "max_input_usd_per_m": 0.1225,
+    "min_output_usd_per_m": 0.735,
+    "max_output_usd_per_m": 0.735,
+    "image_generation": false
+  },
+  {
+    "model": "gemini-3-1-pro-preview-web",
+    "display": "Gemini 3.1 Pro Preview Web",
+    "sellers": 1,
+    "min_input_usd_per_m": 2.5,
+    "max_input_usd_per_m": 2.5,
+    "min_output_usd_per_m": 15,
+    "max_output_usd_per_m": 15,
+    "image_generation": false
+  },
+  {
+    "model": "gemini-omni-flash-v1-1-image-to-video",
+    "display": "Gemini Omni Flash V1.1 Image To Video",
+    "sellers": 1,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "gemini-omni-flash-v1-1-text-to-video",
+    "display": "Gemini Omni Flash V1.1 Text To Video",
+    "sellers": 1,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "gemma-3-4b",
+    "display": "Gemma 3 4B",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.00099,
+    "max_input_usd_per_m": 0.00099,
+    "min_output_usd_per_m": 0.00198,
+    "max_output_usd_per_m": 0.00198,
+    "image_generation": false
+  },
+  {
+    "model": "gemma-4-26b-a4b-it-web",
+    "display": "Gemma 4 26B A4B It Web",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.164125,
+    "max_input_usd_per_m": 0.164125,
+    "min_output_usd_per_m": 0.505,
+    "max_output_usd_per_m": 0.505,
+    "image_generation": false
+  },
+  {
+    "model": "gemma-4-26b-a4b-web",
+    "display": "Gemma 4 26B A4B Web",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.15,
+    "max_input_usd_per_m": 0.15,
+    "min_output_usd_per_m": 0.4,
+    "max_output_usd_per_m": 0.4,
+    "image_generation": false
+  },
+  {
+    "model": "gemma-4-31b-it-web",
+    "display": "Gemma 4 31B It Web",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.044137,
+    "max_input_usd_per_m": 0.044137,
+    "min_output_usd_per_m": 0.12625,
+    "max_output_usd_per_m": 0.12625,
+    "image_generation": false
+  },
+  {
+    "model": "gemma-4-31b-web",
+    "display": "Gemma 4 31B Web",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.15,
+    "max_input_usd_per_m": 0.15,
+    "min_output_usd_per_m": 0.4,
+    "max_output_usd_per_m": 0.4,
+    "image_generation": false
+  },
+  {
+    "model": "gemma-4-e2b",
+    "display": "Gemma 4 E2b",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.0016,
+    "max_input_usd_per_m": 0.0016,
+    "min_output_usd_per_m": 0.0032,
+    "max_output_usd_per_m": 0.0032,
+    "image_generation": false
+  },
+  {
+    "model": "gemma-4-e4b",
+    "display": "Gemma 4 E4b",
+    "sellers": 1,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0,
+    "image_generation": false
+  },
+  {
+    "model": "glm-4-5-flash",
+    "display": "GLM 4.5 Flash",
+    "sellers": 1,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0,
+    "image_generation": false
+  },
+  {
+    "model": "glm-5-2-web",
+    "display": "GLM 5.2 Web",
+    "sellers": 1,
+    "min_input_usd_per_m": 1,
+    "max_input_usd_per_m": 1,
+    "min_output_usd_per_m": 3.2,
+    "max_output_usd_per_m": 3.2,
+    "image_generation": false
+  },
+  {
+    "model": "gpt-5-2-chat",
+    "display": "GPT-5.2 Chat",
+    "sellers": 1,
+    "min_input_usd_per_m": 2.1,
+    "max_input_usd_per_m": 2.1,
+    "min_output_usd_per_m": 16.8,
+    "max_output_usd_per_m": 16.8,
+    "image_generation": false
+  },
+  {
+    "model": "gpt-5-5-pro-web",
+    "display": "GPT-5.5 Pro Web",
+    "sellers": 1,
+    "min_input_usd_per_m": 38,
+    "max_input_usd_per_m": 38,
+    "min_output_usd_per_m": 250,
+    "max_output_usd_per_m": 250,
+    "image_generation": false
+  },
+  {
+    "model": "gpt-5-5-web",
+    "display": "GPT-5.5 Web",
+    "sellers": 1,
+    "min_input_usd_per_m": 6.5,
+    "max_input_usd_per_m": 6.5,
+    "min_output_usd_per_m": 38,
+    "max_output_usd_per_m": 38,
+    "image_generation": false
+  },
+  {
+    "model": "gpt-5-6-sol-pro2z}xl-5te3r{m[[y",
+    "display": "GPT-5.6 Sol Pro2ZxL 5TE3RMy",
+    "sellers": 1,
+    "min_input_usd_per_m": 5,
+    "max_input_usd_per_m": 5,
+    "min_output_usd_per_m": 30.1,
+    "max_output_usd_per_m": 30.1,
+    "image_generation": false
+  },
+  {
+    "model": "gpt-5-chat",
+    "display": "GPT-5 Chat",
+    "sellers": 1,
+    "min_input_usd_per_m": 1.5,
+    "max_input_usd_per_m": 1.5,
+    "min_output_usd_per_m": 12,
+    "max_output_usd_per_m": 12,
+    "image_generation": false
+  },
+  {
+    "model": "gpt-6-luna-pro",
+    "display": "GPT-6 Luna Pro",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.08,
+    "max_input_usd_per_m": 0.08,
+    "min_output_usd_per_m": 0.4,
+    "max_output_usd_per_m": 0.4,
+    "image_generation": false
+  },
+  {
+    "model": "gpt-6-sol-pro",
+    "display": "GPT-6 Sol Pro",
+    "sellers": 1,
+    "min_input_usd_per_m": 1.6,
+    "max_input_usd_per_m": 1.6,
+    "min_output_usd_per_m": 8,
+    "max_output_usd_per_m": 8,
+    "image_generation": false
+  },
+  {
+    "model": "gpt-oss-120b-web",
+    "display": "GPT OSS 120B Web",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.07,
+    "max_input_usd_per_m": 0.07,
+    "min_output_usd_per_m": 0.28,
+    "max_output_usd_per_m": 0.28,
+    "image_generation": false
+  },
+  {
+    "model": "gpt-oss-safeguard-120b",
+    "display": "GPT OSS Safeguard 120B",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.00594,
+    "max_input_usd_per_m": 0.00594,
+    "min_output_usd_per_m": 0.023756,
+    "max_output_usd_per_m": 0.023756,
+    "image_generation": false
+  },
+  {
+    "model": "gpt-oss-safeguard-20b",
+    "display": "GPT OSS Safeguard 20B",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.003,
+    "max_input_usd_per_m": 0.003,
+    "min_output_usd_per_m": 0.011996,
+    "max_output_usd_per_m": 0.011996,
+    "image_generation": false
+  },
+  {
+    "model": "grok-4",
+    "display": "Grok 4",
+    "sellers": 1,
+    "min_input_usd_per_m": 2.424,
+    "max_input_usd_per_m": 2.424,
+    "min_output_usd_per_m": 12.12,
+    "max_output_usd_per_m": 12.12,
+    "image_generation": false
+  },
+  {
+    "model": "grok-4-20-0309-non-reasoning",
+    "display": "Grok 4.20 0309 Non Reasoning",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.01,
+    "max_input_usd_per_m": 0.01,
+    "min_output_usd_per_m": 0.04,
+    "max_output_usd_per_m": 0.04,
+    "image_generation": false
+  },
+  {
+    "model": "grok-4-20-0309-reasoning",
+    "display": "Grok 4.20 0309 Reasoning",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.01,
+    "max_input_usd_per_m": 0.01,
+    "min_output_usd_per_m": 0.04,
+    "max_output_usd_per_m": 0.04,
+    "image_generation": false
+  },
+  {
+    "model": "grok-4-20-fast",
+    "display": "Grok 4.20 Fast",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.104167,
+    "max_input_usd_per_m": 0.104167,
+    "min_output_usd_per_m": 0.208333,
+    "max_output_usd_per_m": 0.208333,
+    "image_generation": false
+  },
+  {
+    "model": "grok-imagine-1-5-image-to-video-private",
+    "display": "Grok Imagine 1.5",
+    "sellers": 1,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "grok-imagine-1-5-text-to-video-private",
+    "display": "Grok Imagine 1.5",
+    "sellers": 1,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "grok-imagine-video-v1-5-image-to-video",
+    "display": "Grok Imagine Video V1.5 Image To Video",
+    "sellers": 1,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "grok-imagine-video-v1-5-lite-text-to-video",
+    "display": "Grok Imagine Video V1.5 Lite Text To Video",
+    "sellers": 1,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "grok-imagine-video-v1-5-text-to-video",
+    "display": "Grok Imagine Video V1.5 Text To Video",
+    "sellers": 1,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "h3-image-to-video",
+    "display": "H3 Image To Video",
+    "sellers": 1,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "haiku-4-5",
+    "display": "Haiku 4.5",
+    "sellers": 1,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0,
+    "image_generation": false
+  },
+  {
+    "model": "happyhorse-1-1-image-to-video",
+    "display": "HappyHorse 1.1",
+    "sellers": 1,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "happyhorse-1-1-text-to-video",
+    "display": "HappyHorse 1.1",
+    "sellers": 1,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "hermes-4-14b",
+    "display": "Hermes 4 14B",
+    "sellers": 1,
+    "min_input_usd_per_m": 1,
+    "max_input_usd_per_m": 1,
+    "min_output_usd_per_m": 3,
+    "max_output_usd_per_m": 3,
+    "image_generation": false
+  },
+  {
+    "model": "hermes-4-14b-web",
+    "display": "Hermes 4 14B Web",
+    "sellers": 1,
+    "min_input_usd_per_m": 1,
+    "max_input_usd_per_m": 1,
+    "min_output_usd_per_m": 3,
+    "max_output_usd_per_m": 3,
+    "image_generation": false
+  },
+  {
+    "model": "high-quality-gpt-5-3-codex-spark",
+    "display": "High Quality GPT-5.3 Codex Spark",
+    "sellers": 1,
+    "min_input_usd_per_m": 2,
+    "max_input_usd_per_m": 2,
+    "min_output_usd_per_m": 10,
+    "max_output_usd_per_m": 10,
+    "image_generation": false
+  },
+  {
+    "model": "high-quality-gpt-5-4",
+    "display": "High Quality GPT-5.4",
+    "sellers": 1,
+    "min_input_usd_per_m": 3,
+    "max_input_usd_per_m": 3,
+    "min_output_usd_per_m": 20,
+    "max_output_usd_per_m": 20,
+    "image_generation": false
+  },
+  {
+    "model": "high-quality-gpt-5-4-mini",
+    "display": "High Quality GPT-5.4 Mini",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.5,
+    "max_input_usd_per_m": 0.5,
+    "min_output_usd_per_m": 3,
+    "max_output_usd_per_m": 3,
+    "image_generation": false
+  },
+  {
+    "model": "high-quality-gpt-5-5",
+    "display": "High Quality GPT-5.5",
+    "sellers": 1,
+    "min_input_usd_per_m": 10,
+    "max_input_usd_per_m": 10,
+    "min_output_usd_per_m": 50,
+    "max_output_usd_per_m": 50,
+    "image_generation": false
+  },
+  {
+    "model": "hy3",
+    "display": "HY3",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.066,
+    "max_input_usd_per_m": 0.066,
+    "min_output_usd_per_m": 0.264,
+    "max_output_usd_per_m": 0.264,
+    "image_generation": false
+  },
+  {
+    "model": "kimi-k2-7-code-web",
+    "display": "Kimi K2.7 Code Web",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.5,
+    "max_input_usd_per_m": 0.5,
+    "min_output_usd_per_m": 3.25,
+    "max_output_usd_per_m": 3.25,
+    "image_generation": false
+  },
+  {
+    "model": "kling-o3-4k-image-to-video",
+    "display": "Kling O3 4K",
+    "sellers": 1,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "kling-o3-4k-text-to-video",
+    "display": "Kling O3 4K",
+    "sellers": 1,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "kling-o3-standard-image-to-video",
+    "display": "Kling O3 Standard",
+    "sellers": 1,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "kling-o3-standard-text-to-video",
+    "display": "Kling O3 Standard",
+    "sellers": 1,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "kling-v3-turbo-pro-image-to-video",
+    "display": "Kling V3 Turbo Pro",
+    "sellers": 1,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "kling-v3-turbo-pro-text-to-video",
+    "display": "Kling V3 Turbo Pro",
+    "sellers": 1,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "kling-v3-turbo-standard-image-to-video",
+    "display": "Kling V3 Turbo Standard",
+    "sellers": 1,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "kling-v3-turbo-standard-text-to-video",
+    "display": "Kling V3 Turbo Standard",
+    "sellers": 1,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "kling-video-v3-pro-image-to-video",
+    "display": "Kling Video V3 Pro Image To Video",
+    "sellers": 1,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "kling-video-v3-standard-text-to-video",
+    "display": "Kling Video V3 Standard Text To Video",
+    "sellers": 1,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "klinn-auto",
+    "display": "Klinn Auto",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.03781,
+    "max_input_usd_per_m": 0.03781,
+    "min_output_usd_per_m": 0.17233,
+    "max_output_usd_per_m": 0.17233,
+    "image_generation": false
+  },
+  {
+    "model": "laguna-m1-free",
+    "display": "Laguna M1 Free",
+    "sellers": 1,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0,
+    "image_generation": false
+  },
+  {
+    "model": "laguna-s-2-1",
+    "display": "Laguna S 2.1",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.072,
+    "max_input_usd_per_m": 0.072,
+    "min_output_usd_per_m": 0.144,
+    "max_output_usd_per_m": 0.144,
+    "image_generation": false
+  },
+  {
+    "model": "lfm-2-24b",
+    "display": "Lfm 2 24B",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.02369,
+    "max_input_usd_per_m": 0.02369,
+    "min_output_usd_per_m": 0.0927,
+    "max_output_usd_per_m": 0.0927,
+    "image_generation": false
+  },
+  {
+    "model": "ling-3-1-flash",
+    "display": "Ling 3.1 Flash",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.02,
+    "max_input_usd_per_m": 0.02,
+    "min_output_usd_per_m": 0.06,
+    "max_output_usd_per_m": 0.06,
+    "image_generation": false
+  },
+  {
+    "model": "llama-3-2-3b-instruct-web",
+    "display": "Llama 3.2 3B Instruct Web",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.037875,
+    "max_input_usd_per_m": 0.037875,
+    "min_output_usd_per_m": 0.1515,
+    "max_output_usd_per_m": 0.1515,
+    "image_generation": false
+  },
+  {
+    "model": "llama-3-2-3b-web",
+    "display": "Llama 3.2 3B Web",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.1,
+    "max_input_usd_per_m": 0.1,
+    "min_output_usd_per_m": 0.5,
+    "max_output_usd_per_m": 0.5,
+    "image_generation": false
+  },
+  {
+    "model": "llama-3-3-70b-instruct-web",
+    "display": "Llama 3.3 70B Instruct Web",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.707,
+    "max_input_usd_per_m": 0.707,
+    "min_output_usd_per_m": 2.828,
+    "max_output_usd_per_m": 2.828,
+    "image_generation": false
+  },
+  {
+    "model": "llama-3-3-70b-web",
+    "display": "Llama 3.3 70B Web",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.7,
+    "max_input_usd_per_m": 0.7,
+    "min_output_usd_per_m": 2.5,
+    "max_output_usd_per_m": 2.5,
+    "image_generation": false
+  },
+  {
+    "model": "llama-8b",
+    "display": "Llama 8B",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.001,
+    "max_input_usd_per_m": 0.001,
+    "min_output_usd_per_m": 0.001,
+    "max_output_usd_per_m": 0.001,
+    "image_generation": false
+  },
+  {
+    "model": "llama3-8b",
+    "display": "Llama 3 8B",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.001,
+    "max_input_usd_per_m": 0.001,
+    "min_output_usd_per_m": 0.001,
+    "max_output_usd_per_m": 0.001,
+    "image_generation": false
+  },
+  {
+    "model": "ltx-2-5-fast-image-to-video",
+    "display": "LTX Video 2.5 Fast",
+    "sellers": 1,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "ltx-2-5-fast-text-to-video",
+    "display": "LTX Video 2.5 Fast",
+    "sellers": 1,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "ltx-2-5-pro-image-to-video",
+    "display": "LTX Video 2.5 Pro",
+    "sellers": 1,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "ltx-2-v2-3-fast-image-to-video",
+    "display": "LTX Video 2.3 Fast",
+    "sellers": 1,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "ltx-2-v2-3-full-image-to-video",
+    "display": "LTX Video 2.3 Full Quality",
+    "sellers": 1,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "ltx-2-v2-3-full-text-to-video",
+    "display": "LTX Video 2.3 Full Quality",
+    "sellers": 1,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "magistral-small-2509",
+    "display": "Magistral Small 2509",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.0198,
+    "max_input_usd_per_m": 0.0198,
+    "min_output_usd_per_m": 0.059398,
+    "max_output_usd_per_m": 0.059398,
+    "image_generation": false
+  },
+  {
+    "model": "minimax-h3-max-turbo-image-to-video",
+    "display": "MiniMax H3 Max Turbo",
+    "sellers": 1,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "minimax-h3-max-turbo-text-to-video",
+    "display": "MiniMax H3 Max Turbo",
+    "sellers": 1,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "minimax-m2-1-highspeed",
+    "display": "MiniMax M2.1 Highspeed",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.005,
+    "max_input_usd_per_m": 0.005,
+    "min_output_usd_per_m": 0.04,
+    "max_output_usd_per_m": 0.04,
+    "image_generation": false
+  },
+  {
+    "model": "minimax-m2-1-paid",
+    "display": "MiniMax M2.1 Paid",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.299999,
+    "max_input_usd_per_m": 0.299999,
+    "min_output_usd_per_m": 1.199999,
+    "max_output_usd_per_m": 1.199999,
+    "image_generation": false
+  },
+  {
+    "model": "minimax-m2-5-highspeed",
+    "display": "MiniMax M2.5 Highspeed",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.008,
+    "max_input_usd_per_m": 0.008,
+    "min_output_usd_per_m": 0.06,
+    "max_output_usd_per_m": 0.06,
+    "image_generation": false
+  },
+  {
+    "model": "minimax-m2-5-paid",
+    "display": "MiniMax M2.5 Paid",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.099999,
+    "max_input_usd_per_m": 0.099999,
+    "min_output_usd_per_m": 0.199999,
+    "max_output_usd_per_m": 0.199999,
+    "image_generation": false
+  },
+  {
+    "model": "minimax-m2-7-paid",
+    "display": "MiniMax M2.7 Paid",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.00887,
+    "max_input_usd_per_m": 0.00887,
+    "min_output_usd_per_m": 0.035482,
+    "max_output_usd_per_m": 0.035482,
+    "image_generation": false
+  },
+  {
+    "model": "minimax-m3-paid",
+    "display": "MiniMax M3 Paid",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.00319,
+    "max_input_usd_per_m": 0.00319,
+    "min_output_usd_per_m": 0.012763,
+    "max_output_usd_per_m": 0.012763,
+    "image_generation": false
+  },
+  {
+    "model": "minimax-text-01",
+    "display": "MiniMax Text 01",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.3,
+    "max_input_usd_per_m": 0.3,
+    "min_output_usd_per_m": 1.5,
+    "max_output_usd_per_m": 1.5,
+    "image_generation": false
+  },
+  {
+    "model": "ministral-3-14b",
+    "display": "Ministral 3 14B",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.004438,
+    "max_input_usd_per_m": 0.004438,
+    "min_output_usd_per_m": 0.004438,
+    "max_output_usd_per_m": 0.004438,
+    "image_generation": false
+  },
+  {
+    "model": "ministral-3-3b",
+    "display": "Ministral 3 3B",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.002158,
+    "max_input_usd_per_m": 0.002158,
+    "min_output_usd_per_m": 0.002158,
+    "max_output_usd_per_m": 0.002158,
+    "image_generation": false
+  },
+  {
+    "model": "ministral-3-8b",
+    "display": "Ministral 3 8B",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.004618,
+    "max_input_usd_per_m": 0.004618,
+    "min_output_usd_per_m": 0.004618,
+    "max_output_usd_per_m": 0.004618,
+    "image_generation": false
+  },
+  {
+    "model": "mistral-31-24b-web",
+    "display": "Mistral 31 24B Web",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.5,
+    "max_input_usd_per_m": 0.5,
+    "min_output_usd_per_m": 2,
+    "max_output_usd_per_m": 2,
+    "image_generation": false
+  },
+  {
+    "model": "mistral-large-3",
+    "display": "Mistral Large 3",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.02,
+    "max_input_usd_per_m": 0.02,
+    "min_output_usd_per_m": 0.06,
+    "max_output_usd_per_m": 0.06,
+    "image_generation": false
+  },
+  {
+    "model": "mistral-nemotron",
+    "display": "Mistral Nemotron",
+    "sellers": 1,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0,
+    "image_generation": false
+  },
+  {
+    "model": "mistral-small-3-2-24b-instruct-web",
+    "display": "Mistral Small 3.2 24B Instruct Web",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.023634,
+    "max_input_usd_per_m": 0.023634,
+    "min_output_usd_per_m": 0.063125,
+    "max_output_usd_per_m": 0.063125,
+    "image_generation": false
+  },
+  {
+    "model": "mock-model-v1",
+    "display": "Mock Model V1",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.05,
+    "max_input_usd_per_m": 0.05,
+    "min_output_usd_per_m": 0.1,
+    "max_output_usd_per_m": 0.1,
+    "image_generation": false
+  },
+  {
+    "model": "msa-clause-svc",
+    "display": "Msa Clause Svc",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.6,
+    "max_input_usd_per_m": 0.6,
+    "min_output_usd_per_m": 2.9,
+    "max_output_usd_per_m": 2.9,
+    "image_generation": false
+  },
+  {
+    "model": "muse-image",
+    "display": "Muse Image",
+    "sellers": 1,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0,
+    "image_generation": true
+  },
+  {
+    "model": "nemotron-3-nano-omni-free",
+    "display": "Nemotron 3 Nano Omni Free",
+    "sellers": 1,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0,
+    "image_generation": false
+  },
+  {
+    "model": "nemotron-3-super-free",
+    "display": "Nemotron 3 Super Free",
+    "sellers": 1,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0,
+    "image_generation": false
+  },
+  {
+    "model": "nemotron-nano-12b-v2",
+    "display": "Nemotron Nano 12B V2",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.00448,
+    "max_input_usd_per_m": 0.00448,
+    "min_output_usd_per_m": 0.013438,
+    "max_output_usd_per_m": 0.013438,
+    "image_generation": false
+  },
+  {
+    "model": "nemotron-nano-9b-v2",
+    "display": "Nemotron Nano 9B V2",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.002376,
+    "max_input_usd_per_m": 0.002376,
+    "min_output_usd_per_m": 0.009104,
+    "max_output_usd_per_m": 0.009104,
+    "image_generation": false
+  },
+  {
+    "model": "nemotron-super-49b",
+    "display": "Nemotron Super 49B",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.412,
+    "max_input_usd_per_m": 0.412,
+    "min_output_usd_per_m": 0.412,
+    "max_output_usd_per_m": 0.412,
+    "image_generation": false
+  },
+  {
+    "model": "nemotron-super-49b-1-5",
+    "display": "Nemotron Super 49B 1.5",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.412,
+    "max_input_usd_per_m": 0.412,
+    "min_output_usd_per_m": 0.412,
+    "max_output_usd_per_m": 0.412,
+    "image_generation": false
+  },
+  {
+    "model": "nova-micro",
+    "display": "Nova Micro",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.042,
+    "max_input_usd_per_m": 0.042,
+    "min_output_usd_per_m": 0.168,
+    "max_output_usd_per_m": 0.168,
+    "image_generation": false
+  },
+  {
+    "model": "novaroute-code-audit-v1",
+    "display": "Novaroute Code Audit V1",
+    "sellers": 1,
+    "min_input_usd_per_m": 4.2984,
+    "max_input_usd_per_m": 4.2984,
+    "min_output_usd_per_m": 21.492,
+    "max_output_usd_per_m": 21.492,
+    "image_generation": false
+  },
+  {
+    "model": "nvidia-llama-nemortron",
+    "display": "NVIDIA Llama Nemortron",
+    "sellers": 1,
+    "min_input_usd_per_m": 1,
+    "max_input_usd_per_m": 1,
+    "min_output_usd_per_m": 1,
+    "max_output_usd_per_m": 1,
+    "image_generation": false
+  },
+  {
+    "model": "o3-mini",
+    "display": "O3 Mini",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.092566,
+    "max_input_usd_per_m": 0.092566,
+    "min_output_usd_per_m": 0.37026,
+    "max_output_usd_per_m": 0.37026,
+    "image_generation": false
+  },
+  {
+    "model": "o4-mini-high",
+    "display": "O4 Mini High",
+    "sellers": 1,
+    "min_input_usd_per_m": 1.32,
+    "max_input_usd_per_m": 1.32,
+    "min_output_usd_per_m": 5.28,
+    "max_output_usd_per_m": 5.28,
+    "image_generation": false
+  },
+  {
+    "model": "openai-gpt-oss-120b-web",
+    "display": "OpenAI GPT OSS 120B Web",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.0707,
+    "max_input_usd_per_m": 0.0707,
+    "min_output_usd_per_m": 0.303,
+    "max_output_usd_per_m": 0.303,
+    "image_generation": false
+  },
+  {
+    "model": "palmyra-vision-7b",
+    "display": "Palmyra Vision 7B",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.006,
+    "max_input_usd_per_m": 0.006,
+    "min_output_usd_per_m": 0.023996,
+    "max_output_usd_per_m": 0.023996,
+    "image_generation": false
+  },
+  {
+    "model": "pixverse-c1-image-to-video",
+    "display": "PixVerse C1",
+    "sellers": 1,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "pixverse-c1-text-to-video",
+    "display": "PixVerse C1",
+    "sellers": 1,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "qwen-2-5-7b-web",
+    "display": "Qwen 2.5 7B Web",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.1,
+    "max_input_usd_per_m": 0.1,
+    "min_output_usd_per_m": 0.5,
+    "max_output_usd_per_m": 0.5,
+    "image_generation": false
+  },
+  {
+    "model": "qwen-math",
+    "display": "Qwen Math",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.48,
+    "max_input_usd_per_m": 0.48,
+    "min_output_usd_per_m": 1.7,
+    "max_output_usd_per_m": 1.7,
+    "image_generation": false
+  },
+  {
+    "model": "qwen-plus",
+    "display": "Qwen Plus",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.48,
+    "max_input_usd_per_m": 0.48,
+    "min_output_usd_per_m": 1.7,
+    "max_output_usd_per_m": 1.7,
+    "image_generation": false
+  },
+  {
+    "model": "qwen-reasoner",
+    "display": "Qwen Reasoner",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.48,
+    "max_input_usd_per_m": 0.48,
+    "min_output_usd_per_m": 1.7,
+    "max_output_usd_per_m": 1.7,
+    "image_generation": false
+  },
+  {
+    "model": "qwen-translate",
+    "display": "Qwen Translate",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.48,
+    "max_input_usd_per_m": 0.48,
+    "min_output_usd_per_m": 1.7,
+    "max_output_usd_per_m": 1.7,
+    "image_generation": false
+  },
+  {
+    "model": "qwen-writing",
+    "display": "Qwen Writing",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.48,
+    "max_input_usd_per_m": 0.48,
+    "min_output_usd_per_m": 1.7,
+    "max_output_usd_per_m": 1.7,
+    "image_generation": false
+  },
+  {
+    "model": "qwen2-5-72b",
+    "display": "Qwen 2.5 72B",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.01,
+    "max_input_usd_per_m": 0.01,
+    "min_output_usd_per_m": 0.05,
+    "max_output_usd_per_m": 0.05,
+    "image_generation": false
+  },
+  {
+    "model": "qwen2-5-72b-instruct",
+    "display": "Qwen 2.5 72B Instruct",
+    "sellers": 1,
+    "min_input_usd_per_m": 2.5,
+    "max_input_usd_per_m": 2.5,
+    "min_output_usd_per_m": 8,
+    "max_output_usd_per_m": 8,
+    "image_generation": false
+  },
+  {
+    "model": "qwen2-5-7b-instruct",
+    "display": "Qwen 2.5 7B Instruct",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.5,
+    "max_input_usd_per_m": 0.5,
+    "min_output_usd_per_m": 1.5,
+    "max_output_usd_per_m": 1.5,
+    "image_generation": false
+  },
+  {
+    "model": "qwen2-5-coder-7b",
+    "display": "Qwen 2.5 Coder 7B",
+    "sellers": 1,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0,
+    "image_generation": false
+  },
+  {
+    "model": "qwen3",
+    "display": "Qwen 3",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.001,
+    "max_input_usd_per_m": 0.001,
+    "min_output_usd_per_m": 0.001,
+    "max_output_usd_per_m": 0.001,
+    "image_generation": false
+  },
+  {
+    "model": "qwen3-235b-a22b-2507-web",
+    "display": "Qwen 3 235B A22B 2507 Web",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.1515,
+    "max_input_usd_per_m": 0.1515,
+    "min_output_usd_per_m": 0.7575,
+    "max_output_usd_per_m": 0.7575,
+    "image_generation": false
+  },
+  {
+    "model": "qwen3-235b-web",
+    "display": "Qwen 3 235B Web",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.4,
+    "max_input_usd_per_m": 0.4,
+    "min_output_usd_per_m": 3,
+    "max_output_usd_per_m": 3,
+    "image_generation": false
+  },
+  {
+    "model": "qwen3-5-plus-02-15",
+    "display": "Qwen 3.5 Plus 02-15",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.28,
+    "max_input_usd_per_m": 0.28,
+    "min_output_usd_per_m": 1.68,
+    "max_output_usd_per_m": 1.68,
+    "image_generation": false
+  },
+  {
+    "model": "qwen3-6-max-preview",
+    "display": "Qwen 3.6 Max Preview",
+    "sellers": 1,
+    "min_input_usd_per_m": 2.536,
+    "max_input_usd_per_m": 2.536,
+    "min_output_usd_per_m": 15.216,
+    "max_output_usd_per_m": 15.216,
+    "image_generation": false
+  },
+  {
+    "model": "qwen3-coder-30b-a3b",
+    "display": "Qwen 3 Coder 30B A3B",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.001386,
+    "max_input_usd_per_m": 0.001386,
+    "min_output_usd_per_m": 0.005544,
+    "max_output_usd_per_m": 0.005544,
+    "image_generation": false
+  },
+  {
+    "model": "qwen3-coder-480b-a35b-instruct",
+    "display": "Qwen 3 Coder 480B A35B Instruct",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.7,
+    "max_input_usd_per_m": 0.7,
+    "min_output_usd_per_m": 2.8,
+    "max_output_usd_per_m": 2.8,
+    "image_generation": false
+  },
+  {
+    "model": "qwen3-coder-480b-a35b-instruct-web",
+    "display": "Qwen 3 Coder 480B A35B Instruct Web",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.7,
+    "max_input_usd_per_m": 0.7,
+    "min_output_usd_per_m": 2.8,
+    "max_output_usd_per_m": 2.8,
+    "image_generation": false
+  },
+  {
+    "model": "qwen3-coder-next-fp8",
+    "display": "Qwen 3 Coder Next FP8",
+    "sellers": 1,
+    "min_input_usd_per_m": 10,
+    "max_input_usd_per_m": 10,
+    "min_output_usd_per_m": 10,
+    "max_output_usd_per_m": 10,
+    "image_generation": false
+  },
+  {
+    "model": "qwen3-next-80b-a3b",
+    "display": "Qwen 3 Next 80B A3B",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.00178,
+    "max_input_usd_per_m": 0.00178,
+    "min_output_usd_per_m": 0.01958,
+    "max_output_usd_per_m": 0.01958,
+    "image_generation": false
+  },
+  {
+    "model": "qwen3-next-80b-a3b-instruct-web",
+    "display": "Qwen 3 Next 80B A3B Instruct Web",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.088375,
+    "max_input_usd_per_m": 0.088375,
+    "min_output_usd_per_m": 0.47975,
+    "max_output_usd_per_m": 0.47975,
+    "image_generation": false
+  },
+  {
+    "model": "qwen3-next-80b-web",
+    "display": "Qwen 3 Next 80B Web",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.15,
+    "max_input_usd_per_m": 0.15,
+    "min_output_usd_per_m": 1.5,
+    "max_output_usd_per_m": 1.5,
+    "image_generation": false
+  },
+  {
+    "model": "qwen3-vl-235b-a22b-instruct",
+    "display": "Qwen 3 VL 235B A22B Instruct",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.14,
+    "max_input_usd_per_m": 0.14,
+    "min_output_usd_per_m": 0.616,
+    "max_output_usd_per_m": 0.616,
+    "image_generation": false
+  },
+  {
+    "model": "qwen35-35b-a3b-web",
+    "display": "Qwen 35 35B A3B Web",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.3,
+    "max_input_usd_per_m": 0.3,
+    "min_output_usd_per_m": 1.25,
+    "max_output_usd_per_m": 1.25,
+    "image_generation": false
+  },
+  {
+    "model": "qwen35-9b-web",
+    "display": "Qwen 35 9B Web",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.05,
+    "max_input_usd_per_m": 0.05,
+    "min_output_usd_per_m": 0.15,
+    "max_output_usd_per_m": 0.15,
+    "image_generation": false
+  },
+  {
+    "model": "riskranges-binance-fractal-signals-v1",
+    "display": "Riskranges Binance Fractal Signals V1",
+    "sellers": 1,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0,
+    "image_generation": false
+  },
+  {
+    "model": "riskranges-binance-rankings-v1",
+    "display": "Riskranges Binance Rankings V1",
+    "sellers": 1,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0,
+    "image_generation": false
+  },
+  {
+    "model": "seed-2-0-code",
+    "display": "Seed 2.0 Code",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.4,
+    "max_input_usd_per_m": 0.4,
+    "min_output_usd_per_m": 2.4,
+    "max_output_usd_per_m": 2.4,
+    "image_generation": false
+  },
+  {
+    "model": "seed-2-1-pro",
+    "display": "Seed 2.1 Pro",
+    "sellers": 1,
+    "min_input_usd_per_m": 1.780416,
+    "max_input_usd_per_m": 1.780416,
+    "min_output_usd_per_m": 8.902078,
+    "max_output_usd_per_m": 8.902078,
+    "image_generation": false
+  },
+  {
+    "model": "seedance-2-0-fast-image-to-video",
+    "display": "Seedance 2.0 Fast",
+    "sellers": 1,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "seedance-2-0-fast-text-to-video",
+    "display": "Seedance 2.0 Fast",
+    "sellers": 1,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "seedance-2-0-image-to-video",
+    "display": "Seedance 2.0",
+    "sellers": 1,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "seedance-2-0-mini-text-to-video-basic",
+    "display": "Seedance 2.0 Mini",
+    "sellers": 1,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "seedance-2-0-text-to-video",
+    "display": "Seedance 2.0",
+    "sellers": 1,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "seedance-2-5-image-to-video",
+    "display": "Seedance 2.5 Image To Video",
+    "sellers": 1,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "seedance-2-5-reference-to-video-basic",
+    "display": "Seedance 2.5 R2V",
+    "sellers": 1,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "seedance-2-5-text-to-video",
+    "display": "Seedance 2.5 Text To Video",
+    "sellers": 1,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "seedream-4-5",
+    "display": "Seedream 4.5",
+    "sellers": 1,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0,
+    "image_generation": false
+  },
+  {
+    "model": "sky",
+    "display": "Sky",
+    "sellers": 1,
+    "min_input_usd_per_m": 1,
+    "max_input_usd_per_m": 1,
+    "min_output_usd_per_m": 1,
+    "max_output_usd_per_m": 1,
+    "image_generation": false
+  },
+  {
+    "model": "standby-placeholder",
+    "display": "Standby Placeholder",
+    "sellers": 1,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0,
+    "image_generation": false
+  },
+  {
+    "model": "surf-crypto-agent",
+    "display": "Surf Crypto Agent",
+    "sellers": 1,
+    "min_input_usd_per_m": 8,
+    "max_input_usd_per_m": 8,
+    "min_output_usd_per_m": 25,
+    "max_output_usd_per_m": 25,
+    "image_generation": false
+  },
+  {
+    "model": "surf-crypto-instant",
+    "display": "Surf Crypto Instant",
+    "sellers": 1,
+    "min_input_usd_per_m": 5,
+    "max_input_usd_per_m": 5,
+    "min_output_usd_per_m": 15,
+    "max_output_usd_per_m": 15,
+    "image_generation": false
+  },
+  {
+    "model": "surf-crypto-research",
+    "display": "Surf Crypto Research",
+    "sellers": 1,
+    "min_input_usd_per_m": 20,
+    "max_input_usd_per_m": 20,
+    "min_output_usd_per_m": 60,
+    "max_output_usd_per_m": 60,
+    "image_generation": false
+  },
+  {
+    "model": "surf-crypto-thinking",
+    "display": "Surf Crypto Thinking",
+    "sellers": 1,
+    "min_input_usd_per_m": 12,
+    "max_input_usd_per_m": 12,
+    "min_output_usd_per_m": 40,
+    "max_output_usd_per_m": 40,
+    "image_generation": false
+  },
+  {
+    "model": "text-embedding-bge-m3",
+    "display": "BGE-M3",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.1,
+    "max_input_usd_per_m": 0.1,
+    "min_output_usd_per_m": 0.5,
+    "max_output_usd_per_m": 0.5,
+    "image_generation": false
+  },
+  {
+    "model": "tradeos-agent-router",
+    "display": "Tradeos Agent Router",
+    "sellers": 1,
+    "min_input_usd_per_m": 1,
+    "max_input_usd_per_m": 1,
+    "min_output_usd_per_m": 10,
+    "max_output_usd_per_m": 10,
+    "image_generation": false
+  },
+  {
+    "model": "tradeos-agent-router-free",
+    "display": "Tradeos Agent Router Free",
+    "sellers": 1,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0,
+    "image_generation": false
+  },
+  {
+    "model": "tradeos-crypto-intelligence-agent",
+    "display": "Tradeos Crypto Intelligence Agent",
+    "sellers": 1,
+    "min_input_usd_per_m": 25,
+    "max_input_usd_per_m": 25,
+    "min_output_usd_per_m": 250,
+    "max_output_usd_per_m": 250,
+    "image_generation": false
+  },
+  {
+    "model": "tradeos-cycle-radar-pro",
+    "display": "Tradeos Cycle Radar Pro",
+    "sellers": 1,
+    "min_input_usd_per_m": 80,
+    "max_input_usd_per_m": 80,
+    "min_output_usd_per_m": 800,
+    "max_output_usd_per_m": 800,
+    "image_generation": false
+  },
+  {
+    "model": "tradeos-dataset-concierge",
+    "display": "Tradeos Dataset Concierge",
+    "sellers": 1,
+    "min_input_usd_per_m": 60,
+    "max_input_usd_per_m": 60,
+    "min_output_usd_per_m": 600,
+    "max_output_usd_per_m": 600,
+    "image_generation": false
+  },
+  {
+    "model": "tradeos-dataset-package-scope",
+    "display": "Tradeos Dataset Package Scope",
+    "sellers": 1,
+    "min_input_usd_per_m": 150,
+    "max_input_usd_per_m": 150,
+    "min_output_usd_per_m": 1500,
+    "max_output_usd_per_m": 1500,
+    "image_generation": false
+  },
+  {
+    "model": "tradeos-feedback",
+    "display": "Tradeos Feedback",
+    "sellers": 1,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0,
+    "image_generation": false
+  },
+  {
+    "model": "tradeos-forecast-path-context",
+    "display": "Tradeos Forecast Path Context",
+    "sellers": 1,
+    "min_input_usd_per_m": 25,
+    "max_input_usd_per_m": 25,
+    "min_output_usd_per_m": 250,
+    "max_output_usd_per_m": 250,
+    "image_generation": false
+  },
+  {
+    "model": "tradeos-fusion-signals-api",
+    "display": "Tradeos Fusion Signals API",
+    "sellers": 1,
+    "min_input_usd_per_m": 25,
+    "max_input_usd_per_m": 25,
+    "min_output_usd_per_m": 250,
+    "max_output_usd_per_m": 250,
+    "image_generation": false
+  },
+  {
+    "model": "tradeos-fusion-signals-history-24h",
+    "display": "Tradeos Fusion Signals History 24h",
+    "sellers": 1,
+    "min_input_usd_per_m": 75,
+    "max_input_usd_per_m": 75,
+    "min_output_usd_per_m": 750,
+    "max_output_usd_per_m": 750,
+    "image_generation": false
+  },
+  {
+    "model": "tradeos-fusion-signals-history-7d",
+    "display": "Tradeos Fusion Signals History 7d",
+    "sellers": 1,
+    "min_input_usd_per_m": 150,
+    "max_input_usd_per_m": 150,
+    "min_output_usd_per_m": 1500,
+    "max_output_usd_per_m": 1500,
+    "image_generation": false
+  },
+  {
+    "model": "tradeos-market-pulse",
+    "display": "Tradeos Market Pulse",
+    "sellers": 1,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0,
+    "image_generation": false
+  },
+  {
+    "model": "tradeos-market-pulse-api-team",
+    "display": "Tradeos Market Pulse API Team",
+    "sellers": 1,
+    "min_input_usd_per_m": 90,
+    "max_input_usd_per_m": 90,
+    "min_output_usd_per_m": 900,
+    "max_output_usd_per_m": 900,
+    "image_generation": false
+  },
+  {
+    "model": "tradeos-market-pulse-pro",
+    "display": "Tradeos Market Pulse Pro",
+    "sellers": 1,
+    "min_input_usd_per_m": 45,
+    "max_input_usd_per_m": 45,
+    "min_output_usd_per_m": 450,
+    "max_output_usd_per_m": 450,
+    "image_generation": false
+  },
+  {
+    "model": "tradeos-risk-gated-discovery",
+    "display": "Tradeos Risk Gated Discovery",
+    "sellers": 1,
+    "min_input_usd_per_m": 45,
+    "max_input_usd_per_m": 45,
+    "min_output_usd_per_m": 450,
+    "max_output_usd_per_m": 450,
+    "image_generation": false
+  },
+  {
+    "model": "tradeos-signal-decision-context",
+    "display": "Tradeos Signal Decision Context",
+    "sellers": 1,
+    "min_input_usd_per_m": 35,
+    "max_input_usd_per_m": 35,
+    "min_output_usd_per_m": 350,
+    "max_output_usd_per_m": 350,
+    "image_generation": false
+  },
+  {
+    "model": "tradeos-signal-evidence-pack",
+    "display": "Tradeos Signal Evidence Pack",
+    "sellers": 1,
+    "min_input_usd_per_m": 90,
+    "max_input_usd_per_m": 90,
+    "min_output_usd_per_m": 900,
+    "max_output_usd_per_m": 900,
+    "image_generation": false
+  },
+  {
+    "model": "tradeos-signal-quality",
+    "display": "Tradeos Signal Quality",
+    "sellers": 1,
+    "min_input_usd_per_m": 18,
+    "max_input_usd_per_m": 18,
+    "min_output_usd_per_m": 180,
+    "max_output_usd_per_m": 180,
+    "image_generation": false
+  },
+  {
+    "model": "tradeos-token-discovery",
+    "display": "Tradeos Token Discovery",
+    "sellers": 1,
+    "min_input_usd_per_m": 16,
+    "max_input_usd_per_m": 16,
+    "min_output_usd_per_m": 160,
+    "max_output_usd_per_m": 160,
+    "image_generation": false
+  },
+  {
+    "model": "tradeos-token-risk",
+    "display": "Tradeos Token Risk",
+    "sellers": 1,
+    "min_input_usd_per_m": 12,
+    "max_input_usd_per_m": 12,
+    "min_output_usd_per_m": 120,
+    "max_output_usd_per_m": 120,
+    "image_generation": false
+  },
+  {
+    "model": "tradeos-token-safety-radar-free",
+    "display": "Tradeos Token Safety Radar Free",
+    "sellers": 1,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0,
+    "image_generation": false
+  },
+  {
+    "model": "tradeos-venice-claude-opus-4-5",
+    "display": "Tradeos Venice Claude Opus 4.5",
+    "sellers": 1,
+    "min_input_usd_per_m": 4.5,
+    "max_input_usd_per_m": 4.5,
+    "min_output_usd_per_m": 22.5,
+    "max_output_usd_per_m": 22.5,
+    "image_generation": false
+  },
+  {
+    "model": "tradeos-venice-claude-opus-4-6",
+    "display": "Tradeos Venice Claude Opus 4.6",
+    "sellers": 1,
+    "min_input_usd_per_m": 4.5,
+    "max_input_usd_per_m": 4.5,
+    "min_output_usd_per_m": 22.5,
+    "max_output_usd_per_m": 22.5,
+    "image_generation": false
+  },
+  {
+    "model": "tradeos-venice-claude-opus-4-7",
+    "display": "Tradeos Venice Claude Opus 4.7",
+    "sellers": 1,
+    "min_input_usd_per_m": 4.5,
+    "max_input_usd_per_m": 4.5,
+    "min_output_usd_per_m": 22.5,
+    "max_output_usd_per_m": 22.5,
+    "image_generation": false
+  },
+  {
+    "model": "tradeos-venice-claude-opus-4-8",
+    "display": "Tradeos Venice Claude Opus 4.8",
+    "sellers": 1,
+    "min_input_usd_per_m": 4.5,
+    "max_input_usd_per_m": 4.5,
+    "min_output_usd_per_m": 22.5,
+    "max_output_usd_per_m": 22.5,
+    "image_generation": false
+  },
+  {
+    "model": "tradeos-venice-claude-opus-4-8-fast",
+    "display": "Tradeos Venice Claude Opus 4.8 Fast",
+    "sellers": 1,
+    "min_input_usd_per_m": 9,
+    "max_input_usd_per_m": 9,
+    "min_output_usd_per_m": 45,
+    "max_output_usd_per_m": 45,
+    "image_generation": false
+  },
+  {
+    "model": "tradeos-venice-intel-router",
+    "display": "Tradeos Venice Intel Router",
+    "sellers": 1,
+    "min_input_usd_per_m": 35,
+    "max_input_usd_per_m": 35,
+    "min_output_usd_per_m": 350,
+    "max_output_usd_per_m": 350,
+    "image_generation": false
+  },
+  {
+    "model": "tradeos-venice-raw-inference",
+    "display": "Tradeos Venice Raw Inference",
+    "sellers": 1,
+    "min_input_usd_per_m": 1,
+    "max_input_usd_per_m": 1,
+    "min_output_usd_per_m": 4,
+    "max_output_usd_per_m": 4,
+    "image_generation": false
+  },
+  {
+    "model": "trinity-large-thinking-web",
+    "display": "Trinity Large Thinking Web",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.078881,
+    "max_input_usd_per_m": 0.078881,
+    "min_output_usd_per_m": 0.284113,
+    "max_output_usd_per_m": 0.284113,
+    "image_generation": false
+  },
+  {
+    "model": "vector-chat",
+    "display": "Vector Chat",
+    "sellers": 1,
+    "min_input_usd_per_m": 25,
+    "max_input_usd_per_m": 25,
+    "min_output_usd_per_m": 63,
+    "max_output_usd_per_m": 63,
+    "image_generation": false
+  },
+  {
+    "model": "vector-lite",
+    "display": "Vector Lite",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.015,
+    "max_input_usd_per_m": 0.015,
+    "min_output_usd_per_m": 0.075,
+    "max_output_usd_per_m": 0.075,
+    "image_generation": false
+  },
+  {
+    "model": "venice-uncensored-web",
+    "display": "Venice Uncensored Web",
+    "sellers": 1,
+    "min_input_usd_per_m": 0.2,
+    "max_input_usd_per_m": 0.2,
+    "min_output_usd_per_m": 0.9,
+    "max_output_usd_per_m": 0.9,
+    "image_generation": false
+  },
+  {
+    "model": "venice-wai-illustrious",
+    "display": "Venice Wai Illustrious",
+    "sellers": 1,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0,
+    "image_generation": false
+  },
+  {
+    "model": "veo3-1-fast",
+    "display": "VEO3.1 Fast",
+    "sellers": 1,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "vidu-q3-image-to-video",
+    "display": "Vidu Q3",
+    "sellers": 1,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "vidu-q3-text-to-video",
+    "display": "Vidu Q3",
+    "sellers": 1,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "vision-chat",
+    "display": "Vision Chat",
+    "sellers": 1,
+    "min_input_usd_per_m": 0,
+    "max_input_usd_per_m": 0,
+    "min_output_usd_per_m": 0,
+    "max_output_usd_per_m": 0,
+    "image_generation": false
+  },
+  {
+    "model": "wan-2-7-image-to-video",
+    "display": "Wan 2.7",
+    "sellers": 1,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "wan-2-7-text-to-video",
+    "display": "Wan 2.7",
+    "sellers": 1,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "wan-3-0-pro-image-to-video",
+    "display": "Wan 3.0 Pro",
+    "sellers": 1,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  },
+  {
+    "model": "wan-3-0-pro-text-to-video",
+    "display": "Wan 3.0 Pro",
+    "sellers": 1,
+    "min_input_usd_per_m": null,
+    "max_input_usd_per_m": null,
+    "min_output_usd_per_m": null,
+    "max_output_usd_per_m": null,
+    "image_generation": false
+  }
+]

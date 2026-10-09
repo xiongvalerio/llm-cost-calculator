@@ -33,6 +33,12 @@ python -m http.server 8080
 # open http://localhost:8080
 ```
 
+## Dataset
+
+`data/models.json` ships a snapshot of 656 models with their advertised price
+floors (source: AntSeedStats, CC BY 4.0). It is a convenience reference for
+seeding your own pricing tables — check the source before relying on it.
+
 ## License
 
 MIT
